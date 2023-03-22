@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="openlayers JS"
+    id="id-d39829e50a6842b09c16c273af86f7a5"
+    documentation="получение картографических данных из Системы ЕГИП, а конкретно для получение функционала Подложки.">
+  <properties
+      key="bns_Interface"
+      value="openlayers JS"/>
+</archimate:BusinessInterface>

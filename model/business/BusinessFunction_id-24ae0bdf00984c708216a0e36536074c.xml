@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отображение ЛК Технологического оператора в части навигационных элементов и элементов управления"
+    id="id-24ae0bdf00984c708216a0e36536074c"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-22-37:&#xD;&#xA;ХХ/2/РД/22-22-37.1&#xD;&#xA;ХХ/2/РД/22-22-37.2 Реализация навигационного меню в новом приложении сервиса «Калькулятор рисков» в части разделов: Отчеты, Справочники, Реестр анкет">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-22-01, ХХ/2/РД/22-22-37"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

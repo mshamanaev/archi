@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с внутренним СУДИР"
+    id="id-f80dfac8c57d4124a57d1fa248a8d885">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-17-39"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

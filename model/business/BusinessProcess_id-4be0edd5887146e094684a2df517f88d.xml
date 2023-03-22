@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Привязка движения обращения/жалобы/заявления по статусной модели к временным периодам через функцоинальность сервиса &quot;Производственный календарь&quot;"
+    id="id-4be0edd5887146e094684a2df517f88d">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-15-16"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

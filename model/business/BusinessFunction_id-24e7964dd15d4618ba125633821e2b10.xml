@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отмена записи на консультирование"
+    id="id-24e7964dd15d4618ba125633821e2b10"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-21-15:&#xD;&#xA;ХХ/1/РД/22-21-15.1. Реализация экранной формы “Причина отмены записи на консультирование">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-21-08, 64/РС/20-21-08, ХХ/1/РД/22-21-15, ХХ/2/РД/22-21-46"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

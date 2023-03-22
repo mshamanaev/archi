@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр ОТ из реестра ОТ, применимых к бизнесам"
+    id="id-efc3a3b6b0024a9ba2e37d48e5a07231">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-05"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Внутренний СУДИР"
+    id="id-47ae7f4a250e42ec862c48df37af2b8e">
+  <properties
+      key="bns_Cluster"/>
+  <properties
+      key="bns_RIRS"/>
+  <properties
+      key="bns_UUID"/>
+</archimate:Product>

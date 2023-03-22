@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр категорий риска, назначенных бизнесам цирового профиля"
+    id="id-ec54f13309734d3991941f46ed532325">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-13"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

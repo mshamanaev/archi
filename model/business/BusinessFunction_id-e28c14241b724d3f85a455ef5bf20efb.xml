@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение взаимодействия внешних систем с сервисом &quot;Устранение нарушений&quot;"
+    id="id-e28c14241b724d3f85a455ef5bf20efb">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-25, 12/РД/21-17-34"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

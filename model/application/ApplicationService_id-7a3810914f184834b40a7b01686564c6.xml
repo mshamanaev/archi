@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="микросервис questionnaire-service.jar"
+    id="id-7a3810914f184834b40a7b01686564c6">
+  <properties
+      key="app_Framework"/>
+  <properties
+      key="app_Git"/>
+  <properties
+      key="app_Technology"/>
+  <properties
+      key="app_UUID"/>
+  <properties
+      key="app_Version"/>
+</archimate:ApplicationService>

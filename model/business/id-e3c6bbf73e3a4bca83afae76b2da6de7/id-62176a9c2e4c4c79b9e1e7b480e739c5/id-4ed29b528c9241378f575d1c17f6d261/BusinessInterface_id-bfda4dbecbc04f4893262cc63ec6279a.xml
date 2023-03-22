@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth 2.0 REST"
+    id="id-bfda4dbecbc04f4893262cc63ec6279a"
+    documentation="Принимаемые данные:&#xD;&#xA;Сведения по юрлицам для формирования цифрового профиля субъекта контроля&#xD;&#xA;">
+  <properties
+      key="bns_Interface"
+      value="OAuth 2.0 REST"/>
+</archimate:BusinessInterface>

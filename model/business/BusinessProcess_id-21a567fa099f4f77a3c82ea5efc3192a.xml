@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр списка подтвержденных категорий риска организации в ЛК Бизнеса"
+    id="id-21a567fa099f4f77a3c82ea5efc3192a">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-26-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

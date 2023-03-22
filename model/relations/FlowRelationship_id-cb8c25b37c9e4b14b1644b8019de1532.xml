@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="информация по жалобам на постановления"
+    id="id-cb8c25b37c9e4b14b1644b8019de1532">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-b42e568a8df84060ace60b69ae160ba4.xml#id-b42e568a8df84060ace60b69ae160ba4"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-1e0ec48fd600409e98e3785901f75006.xml#id-1e0ec48fd600409e98e3785901f75006"/>
+</archimate:FlowRelationship>

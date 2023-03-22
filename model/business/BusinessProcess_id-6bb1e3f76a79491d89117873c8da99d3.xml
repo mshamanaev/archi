@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр постановления по административному правонарушению"
+    id="id-6bb1e3f76a79491d89117873c8da99d3"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РС/22-07-31: &#xD;&#xA;ХХ/2/РС/22-07-31.1 Реализация экранной формы просмотра постановления по административному правонарушению&#xD;&#xA;ХХ/2/РС/22-07-31.2 Реализация функции скачивания приложенных файлов к постановлению&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РС/22-07-31"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

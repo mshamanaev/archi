@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CPKNO-DOCKM1P, CPKNO-DOCKM2P, CPKNO-DOCKM3P, CPKNO-DOCKM4P, CPKNO-DOCKM5P"
+    id="id-ef4fadd857ee4ec8819a3dfe57d5d7c0">
+  <properties
+      key="sys_vCPU"/>
+  <properties
+      key="sys_RAM"/>
+  <properties
+      key="sys_HDD"/>
+</archimate:Node>

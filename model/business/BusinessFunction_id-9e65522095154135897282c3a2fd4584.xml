@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отображение личного кабинета самозанятого в части навигационных элементов и элементов управления"
+    id="id-9e65522095154135897282c3a2fd4584"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-23-13:&#xD;&#xA;ХХ/2/РД/22-23-13.1&#xD;&#xA;ХХ/2/РД/22-23-13.2 Развитие отображения бокового навигационного меню в ЛК Самозанятого">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-23-01, ХХ/1/РД/22-23-10, ХХ/2/РД/22-23-13"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

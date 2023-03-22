@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ведение профиля обязательных требований"
+    id="id-ddc31d108e6d4a6086e79e548418cc65">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-01, 12/РД/21-24-11, ХХ/2/РД/22-24-15"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

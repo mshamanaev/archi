@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность перехода к сервису &quot;Досудебное обжалование по 248 ФЗ&quot; с дашборда"
+    id="id-7e0bce229f844c6b889b5019cf860f00"
+    documentation="ХХ/1/РД/22-03-23 &#xD;&#xA;1)&#x9;Реализация баннера для перехода к форме подачи жалобы на нарушение моратория на проверки с дашборда.&#xD;&#xA;2)&#x9;Реализация баннера для перехода к форме подачи жалобы на решение органа контроля с дашборда.">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-03-23(1)"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

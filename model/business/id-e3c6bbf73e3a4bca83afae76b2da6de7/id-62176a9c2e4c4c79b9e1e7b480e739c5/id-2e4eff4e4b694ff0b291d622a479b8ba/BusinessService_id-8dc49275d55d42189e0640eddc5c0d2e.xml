@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Сервис Комментарий юриста"
+    id="id-8dc49275d55d42189e0640eddc5c0d2e">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

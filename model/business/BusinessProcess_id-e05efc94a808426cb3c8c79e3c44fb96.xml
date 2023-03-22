@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отзыв обращения в ЛК Бизнеса"
+    id="id-e05efc94a808426cb3c8c79e3c44fb96">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-15-25"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

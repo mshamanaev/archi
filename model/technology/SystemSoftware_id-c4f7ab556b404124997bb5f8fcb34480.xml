@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Red Hat Enterprise Linux "
+    id="id-c4f7ab556b404124997bb5f8fcb34480">
+  <properties
+      key="sys_OS"
+      value="RHE Linux"/>
+</archimate:SystemSoftware>

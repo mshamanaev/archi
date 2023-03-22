@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность создания вопроса от неавторизованного пользователя"
+    id="id-415c1175808e4e7388a9c103f4afc9e4">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-14-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

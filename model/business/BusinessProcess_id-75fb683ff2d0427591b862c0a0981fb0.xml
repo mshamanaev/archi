@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр бизнесов на карте"
+    id="id-75fb683ff2d0427591b862c0a0981fb0">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

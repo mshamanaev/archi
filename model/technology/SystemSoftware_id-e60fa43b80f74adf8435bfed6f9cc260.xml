@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaeger"
+    id="id-e60fa43b80f74adf8435bfed6f9cc260">
+  <properties
+      key="sys_Technology"
+      value="Jaeger"/>
+</archimate:SystemSoftware>

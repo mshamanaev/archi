@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REST "
+    id="id-afc55dbc0c9946d09891bdbb0a029b9a"
+    documentation="&#x9;Получение сведений о проверках, направляемых из АСКД КНД:&#xD;&#xA;●&#x9;Общие сведения;&#xD;&#xA;●&#x9;Сведения об органе контроля;&#xD;&#xA;●&#x9;Сведения о субъекте контроля;&#xD;&#xA;●&#x9;Сведения об объектах контроля;&#xD;&#xA;&#x9;Фиксация истории событий о получении данных.&#xD;&#xA;">
+  <properties
+      key="bns_Interface"
+      value="REST"/>
+</archimate:BusinessInterface>

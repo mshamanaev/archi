@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Новости"
+    id="id-0dba1660c017427f83787ffb1ba8e0c0">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-1b267ebbba5c45da84389eb66017c4ef.xml#id-1b267ebbba5c45da84389eb66017c4ef"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-ed61a0b37a834116a7018f2e2233ecd0.xml#id-ed61a0b37a834116a7018f2e2233ecd0"/>
+</archimate:FlowRelationship>

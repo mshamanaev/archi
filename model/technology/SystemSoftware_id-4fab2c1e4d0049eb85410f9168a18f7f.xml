@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grafana"
+    id="id-4fab2c1e4d0049eb85410f9168a18f7f">
+  <properties
+      key="sys_Technology"
+      value="Grafana"/>
+</archimate:SystemSoftware>

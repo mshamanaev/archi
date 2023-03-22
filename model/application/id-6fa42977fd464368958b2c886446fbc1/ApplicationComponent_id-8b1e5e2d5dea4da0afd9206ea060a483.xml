@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="backend (backend.jar)"
+    id="id-8b1e5e2d5dea4da0afd9206ea060a483">
+  <properties
+      key="app_Framework"/>
+  <properties
+      key="app_Git"/>
+  <properties
+      key="app_Technology"/>
+  <properties
+      key="app_UUID"/>
+  <properties
+      key="app_Version"/>
+</archimate:ApplicationComponent>

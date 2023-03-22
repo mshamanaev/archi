@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="frontend (nginx)"
+    id="id-935f0b3d5ef84ed7abc61e3526c5e5f8">
+  <properties
+      key="app_Framework"/>
+  <properties
+      key="app_Git"/>
+  <properties
+      key="app_Technology"/>
+  <properties
+      key="app_UUID"/>
+  <properties
+      key="app_Version"/>
+</archimate:ApplicationComponent>

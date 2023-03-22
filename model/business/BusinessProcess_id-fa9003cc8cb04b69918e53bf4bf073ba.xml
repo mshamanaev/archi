@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение возможности ЭП &quot;Жалобы&quot; в сервисе &quot;Досудебное обжалование по 248ФЗ&quot; пользователям с полномочием Бизнес (copy)"
+    id="id-fa9003cc8cb04b69918e53bf4bf073ba">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-12-18, ХХ/1/РД/22-12-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

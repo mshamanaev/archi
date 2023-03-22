@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Настройка уведомлений в ЛК самозанятого"
+    id="id-b8597d682d5640b6a50af4cc2e6baa12">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-23-06"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

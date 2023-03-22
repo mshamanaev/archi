@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth 2.0 REST"
+    id="id-d7684f198c7e46ad93ff5ad368bf8582"
+    documentation="возможность авторизации пользователей в личном кабинете бизнеса с помощью интеграции с ЕСИА. &#xD;&#xA;Подключение к тестовой и продуктивной версии ЕСИА выполняется при наличии соответствующей возможности, но не является обязательным требованиям в рамках выполнения работ.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-1e0bd67e60b34034b0308686468bfbd2.xml#id-1e0bd67e60b34034b0308686468bfbd2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-bc99d4624ec64eb28f09e67a6e4a7211.xml#id-bc99d4624ec64eb28f09e67a6e4a7211"/>
+</archimate:TriggeringRelationship>

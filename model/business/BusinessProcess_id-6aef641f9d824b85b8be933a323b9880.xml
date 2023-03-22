@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение формирования переписки по вопросу, сформированному из ЛК Бизнеса"
+    id="id-6aef641f9d824b85b8be933a323b9880">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-14-06"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

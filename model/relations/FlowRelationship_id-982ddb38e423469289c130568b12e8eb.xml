@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sso"
+    id="id-982ddb38e423469289c130568b12e8eb">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-9ff81e2bb0d3455998ff2f8e8d570a76.xml#id-9ff81e2bb0d3455998ff2f8e8d570a76"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-f21862ca17b4446ea5e5ff3528b7f283.xml#id-f21862ca17b4446ea5e5ff3528b7f283"/>
+</archimate:FlowRelationship>

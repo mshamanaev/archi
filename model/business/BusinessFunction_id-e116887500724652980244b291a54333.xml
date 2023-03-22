@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность выбора характеристик, применимых к выбранному бизнесу субъекта контроля"
+    id="id-e116887500724652980244b291a54333">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-15"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

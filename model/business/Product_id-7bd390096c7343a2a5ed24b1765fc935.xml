@@ -1,0 +1,13 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="АС УР "
+    id="id-7bd390096c7343a2a5ed24b1765fc935">
+  <properties
+      key="bns_Cluster"/>
+  <properties
+      key="bns_RIRS"
+      value="1000778"/>
+  <properties
+      key="bns_UUID"
+      value="4C945CD4-584D-4C0F-B12D-E42DEDE01B86"/>
+</archimate:Product>

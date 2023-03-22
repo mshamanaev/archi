@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность подачи жалобы из ЛК Бизнеса и Самозанятого"
+    id="id-cd7bec3f313345d3b11c14588a59584c">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-07, ХХ/2/РД/22-09-33"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

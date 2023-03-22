@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отправка информационного листа в адрес Бизнеса"
+    id="id-8e160d3ad94648b98b649234929aae3d">
+  <properties
+      key="bns_Process"
+      value="12/РС/21-08-10"/>
+  <properties
+      key="bns_ Process_GK"/>
+</archimate:BusinessProcess>

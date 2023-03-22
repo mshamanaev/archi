@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение и управление движением ходатайств и определениям по ним по статусной модели"
+    id="id-b62b9f66032b44e0b4c404d9f52fab1e">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

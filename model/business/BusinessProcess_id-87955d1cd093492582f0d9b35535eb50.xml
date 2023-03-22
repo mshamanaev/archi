@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Расчет сроков ответа Бизнесом на вопросы КНО через сервис &quot;Производственный календарь&quot;"
+    id="id-87955d1cd093492582f0d9b35535eb50">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-14-17"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

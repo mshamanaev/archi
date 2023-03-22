@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patroni"
+    id="id-ff2f74122cd14a4190314ba01ab8c019">
+  <properties
+      key="sys_Technology"
+      value="Patroni"/>
+</archimate:SystemSoftware>

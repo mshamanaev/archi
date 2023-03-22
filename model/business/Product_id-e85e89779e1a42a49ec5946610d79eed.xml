@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ФИАС"
+    id="id-e85e89779e1a42a49ec5946610d79eed">
+  <properties
+      key="bns_Cluster"/>
+  <properties
+      key="bns_RIRS"/>
+  <properties
+      key="bns_UUID"
+      value="AFFFB98E-606B-405F-8B05-770EDC9FA683"/>
+</archimate:Product>

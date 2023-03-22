@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность редактирования производственного календаря в ЛК Оператора, Технологического оператора"
+    id="id-31288d9c238746368c03ba372b614bda">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-20-02"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

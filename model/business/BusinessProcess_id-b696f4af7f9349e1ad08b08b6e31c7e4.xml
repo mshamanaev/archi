@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность перехода к сервису с дашборда "
+    id="id-b696f4af7f9349e1ad08b08b6e31c7e4">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-21-18"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

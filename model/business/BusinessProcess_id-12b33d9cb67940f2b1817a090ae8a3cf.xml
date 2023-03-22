@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность управления информацией о пользователе и разграничение прав доступа к сервису «Досудебное обжалование по 248ФЗ»"
+    id="id-12b33d9cb67940f2b1817a090ae8a3cf">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

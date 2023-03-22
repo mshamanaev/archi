@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Обязательные требования&quot;"
+    id="id-8b05fa9c40834e049a1d228d8bb96de3">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-04-06"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

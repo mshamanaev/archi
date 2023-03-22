@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение возможности ЭП &quot;Жалобы&quot; в сервисе &quot;Досудебное обжалование по 248ФЗ&quot; пользователям с полномочием Самозанятый"
+    id="id-572b1cdad5c3467a9cef88c8babe7a23"
+    documentation="ХХ/1/РД/22-12-23 ">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-12-20, ХХ/1/РД/22-12-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

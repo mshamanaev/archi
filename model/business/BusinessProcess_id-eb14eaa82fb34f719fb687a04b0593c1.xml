@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Настройка получения уведомлений в личном кабинете Оператора"
+    id="id-eb14eaa82fb34f719fb687a04b0593c1">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-13-07, 12/РД/21-13-29"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

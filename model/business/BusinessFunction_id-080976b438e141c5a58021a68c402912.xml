@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр информации на главной странице сервиса «Онлайн калькулятор оценки вероятности нарушений»"
+    id="id-080976b438e141c5a58021a68c402912"
+    documentation="Функции, реализуемые в инкременте XX/2/РД/23-01-44: &#xD;&#xA;XX/2/РД/23-01-44.1 Реализация экранной формы главной страницы нового приложения сервиса «Калькулятор рисков»&#xD;&#xA;XX/2/РД/23-01-44.2 Реализация алгоритма отображения анкет на главной странице сервиса «Калькулятор рисков»&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="XX/2/РД/23-01-44"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с ЦХЭД"
+    id="id-959d3a92c3bd4fbc87e156d81712f37a">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-40"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

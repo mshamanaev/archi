@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Управление НСИ в части управления справочниками системы"
+    id="id-34c2fad87c7f4302a5604cd6d064bd8d">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-05-17, ХХ/1/РД/22-05-41"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

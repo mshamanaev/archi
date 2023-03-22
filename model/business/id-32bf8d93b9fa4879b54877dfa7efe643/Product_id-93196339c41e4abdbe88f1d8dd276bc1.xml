@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Mos.ru (новости)"
+    id="id-93196339c41e4abdbe88f1d8dd276bc1">
+  <properties
+      key="bns_Cluster"/>
+  <properties
+      key="bns_RIRS"/>
+  <properties
+      key="bns_UUID"/>
+</archimate:Product>

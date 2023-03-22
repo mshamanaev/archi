@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REST"
+    id="id-9435a1e0493b4593981e46915b085c89"
+    documentation="получение подсказок для адресов при вводе в адресной строке функциональных подсистем">
+  <properties
+      key="bns_Interface"
+      value="REST"/>
+</archimate:BusinessInterface>

@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отображение ЛК КНО в части навигационных элементов и элементов управления"
+    id="id-51ebaca277bd454ca6f3e0fd885b644b"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-04-32:&#xD;&#xA;ХХ/2/РД/22-04-32.1">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-04-01, ХХ/2/РД/22-04-32"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

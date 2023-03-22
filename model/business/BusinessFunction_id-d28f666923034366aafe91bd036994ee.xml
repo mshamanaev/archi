@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Фильтрация и поиск полученных запросов от КНО в ЛК Делового объединения"
+    id="id-d28f666923034366aafe91bd036994ee">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-19"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Автоматический подбор обязательных требований"
+    id="id-2fad4b7ce33246dfbb355a3ceb2908e8">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-11-02"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

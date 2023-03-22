@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр истории событий в ЛК Бизнеса и Самозанятого"
+    id="id-7832fa5afe744d38824a58eb90d9d0e3"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-09-24:&#xD;&#xA;ХХ/1/РД/22-09-24.1 Развитие реестра истории событий в части возможности просмотра событий по ходатайству об отсрочке исполнения решения">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-10, ХХ/1/РД/22-09-24, ХХ/2/РД/22-09-24"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

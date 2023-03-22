@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Выгрузка обязательных требований в Excel"
+    id="id-9d8ee59132b0440fb4f358a0e869cf77">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-05"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

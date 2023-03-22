@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Размещение сведений о КНО и видах контроля из ЛК Оператора"
+    id="id-7ac225c07be9438286ed7142a75e42f5">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-01-15"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

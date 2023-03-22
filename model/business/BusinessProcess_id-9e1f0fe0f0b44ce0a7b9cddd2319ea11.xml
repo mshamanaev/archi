@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Реестр жалоб в ЛК КНО"
+    id="id-9e1f0fe0f0b44ce0a7b9cddd2319ea11">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-15"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

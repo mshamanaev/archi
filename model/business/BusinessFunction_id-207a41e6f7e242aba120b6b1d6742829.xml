@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр справочников в приложении сервиса «Калькулятор рисков»"
+    id="id-207a41e6f7e242aba120b6b1d6742829"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РC/23-18-84:&#xD;&#xA;ХХ/2/РC/23-18-84.1 Реализация экранной формы реестра справочников в приложении сервиса «Калькулятор рисков»">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РC/23-18-84"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

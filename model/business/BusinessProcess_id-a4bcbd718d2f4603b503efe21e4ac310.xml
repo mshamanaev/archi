@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность фильтрации вопросов в Личных Кабинетах"
+    id="id-a4bcbd718d2f4603b503efe21e4ac310">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-14-13, 12/РД/21-14-20"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

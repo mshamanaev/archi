@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Создание вопроса из ЛК Бизнеса"
+    id="id-0d6dc5cfb1614d0e93c8b289b4fd001c"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-14-27: &#xD;&#xA;ХХ/2/РД/22-14-27.1 Развитие алгоритма отображения КНО в поле выбора КНО&#xD;&#xA;ХХ/2/РД/22-14-27.2 Развитие алгоритма предзаполнения поля выбора КНО при переходе к формированию нового вопроса из информационного листа&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-14-02, ХХ/2/РД/22-14-27"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

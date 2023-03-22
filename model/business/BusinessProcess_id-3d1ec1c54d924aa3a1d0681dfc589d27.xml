@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Включение/отключение возможности КНО создавать обязательное требование (из ЛК Оператора в разделе Перечень КНО)"
+    id="id-3d1ec1c54d924aa3a1d0681dfc589d27">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-09"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

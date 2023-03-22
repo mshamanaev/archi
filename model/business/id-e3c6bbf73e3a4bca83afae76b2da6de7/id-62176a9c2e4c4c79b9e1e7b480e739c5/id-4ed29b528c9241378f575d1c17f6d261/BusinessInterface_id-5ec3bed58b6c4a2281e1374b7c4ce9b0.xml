@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ручная загрузка"
+    id="id-5ec3bed58b6c4a2281e1374b7c4ce9b0"
+    documentation="&#x9;ручная загрузка сведений об адресах г. Москвы и Московской области;&#xD;&#xA;&#x9;фиксация в истории событий факта загрузки файла с адресами в Систему.">
+  <properties
+      key="bns_Interface"
+      value="Ручная загрузка"/>
+</archimate:BusinessInterface>

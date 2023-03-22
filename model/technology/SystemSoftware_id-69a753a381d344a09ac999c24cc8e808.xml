@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Minio"
+    id="id-69a753a381d344a09ac999c24cc8e808">
+  <properties
+      key="sys_Technology"
+      value="Minio"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность размещения характеристик обязательных требований"
+    id="id-ba26fa36e85642f1b2d9c447394fd4f0">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-02"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

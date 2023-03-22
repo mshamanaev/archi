@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отображение ЛК Делового Объединения в части навигационных элементов и элементов управления"
+    id="id-a199eace44014003a9580c3bc228f345"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/23-02-25:&#xD;&#xA;ХХ/2/РД/23-02-25.1">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-01, ХХ/2/РД/23-02-25"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

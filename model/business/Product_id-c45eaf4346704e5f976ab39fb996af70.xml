@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ЦХЭД"
+    id="id-c45eaf4346704e5f976ab39fb996af70">
+  <properties
+      key="bns_Cluster"/>
+  <properties
+      key="bns_RIRS"/>
+  <properties
+      key="bns_UUID"/>
+</archimate:Product>

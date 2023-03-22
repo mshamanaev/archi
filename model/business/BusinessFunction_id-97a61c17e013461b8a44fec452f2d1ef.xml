@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с «Кэш ЕГРЮЛ/ЕГРИП»"
+    id="id-97a61c17e013461b8a44fec452f2d1ef"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/23-17-48:&#xD;&#xA;ХХ/2/РД/23-17-48.1 Развитие алгоритма получения данных по ЕГРЮЛ, ЕГРИП в ПС «Калькулятор рисков»">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-09, ХХ/2/РД/23-17-48"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

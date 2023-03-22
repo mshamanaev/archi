@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Управление данными об организации КНО"
+    id="id-f123967e8169471d9935094d00d21223">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-04-02"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

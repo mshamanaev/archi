@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Статусная модель сервиса Консультирование"
+    id="id-f53e0c8436234ccd8dae079ce7f91dfb"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-21-29: &#xD;&#xA;ХХ/1/РД/22-21-29.1. Алгоритм бизнес-процесса должен быть доработан в соответствии со следующими требованиями: &#xD;&#xA;в части импорта слотов через ЛК Тех. Оператора/Оператор;&#xD;&#xA;в части формирования новых статусов;&#xD;&#xA;в части формирования новых событий во взаимодействии с внешней системой;&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РД/22-21-29, ХХ/2/РД/22-21-48"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

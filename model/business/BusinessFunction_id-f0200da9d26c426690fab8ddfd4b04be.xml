@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность входа в Систему (Либо как КНО или другой пользователь)"
+    id="id-f0200da9d26c426690fab8ddfd4b04be"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-01-35:&#xD;&#xA;ХХ/2/РД/22-01-35.1 Развитие алгоритма перехода к форме авторизации пользователя&#xD;&#xA;ХХ/2/РД/22-01-35.2 Реализация экранной формы выбора варианта входа в личный кабинет&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РД/22-01-35"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Реестр жалоб в ЛК Бизнеса и Самозанятого"
+    id="id-8fd1f38442c94417bd9f0baecc33f953"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-09-14: &#xD;&#xA;ХХ/1/РД/22-09-14.1 Развитие экранной формы реестра жалоб&#xD;&#xA;ХХ/1/РД/22-09-14.2 Развитие экранной формы реестра жалоб: не подано ни одной жалобы&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-05, ХХ/1/РД/22-09-14, ХХ/2/РД/22-09-30"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

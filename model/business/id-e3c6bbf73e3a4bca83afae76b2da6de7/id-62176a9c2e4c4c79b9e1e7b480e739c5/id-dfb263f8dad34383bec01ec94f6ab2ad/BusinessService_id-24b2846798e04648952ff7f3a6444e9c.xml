@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Сервис Производственный календарь"
+    id="id-24b2846798e04648952ff7f3a6444e9c">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Принятие решения по итогам рассмотрения ответа по информационному листу в ЛК КНО"
+    id="id-377e543d8287418d85c2597ce5131b5f">
+  <properties
+      key="bns_Process"
+      value="12/РС/21-08-15"/>
+  <properties
+      key="bns_ Process_GK"/>
+</archimate:BusinessProcess>

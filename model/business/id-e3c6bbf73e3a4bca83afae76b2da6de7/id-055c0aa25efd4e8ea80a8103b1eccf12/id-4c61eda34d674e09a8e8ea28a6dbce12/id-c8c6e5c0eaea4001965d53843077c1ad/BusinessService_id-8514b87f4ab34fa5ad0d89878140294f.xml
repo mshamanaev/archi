@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Сервис Онлайн калькулятор категории рисков нарушений"
+    id="id-8514b87f4ab34fa5ad0d89878140294f"
+    documentation="Разработан в 2022 году в рамках первого этапа контракта №ХХХХХХХХХХ от ХХ.ХХ.2022&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

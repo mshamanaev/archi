@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSS "
+    id="id-ed61a0b37a834116a7018f2e2233ecd0"
+    documentation="получение актуальных новостей с сайта Регуляторная гильотина">
+  <properties
+      key="bns_Interface"
+      value="RSS"/>
+</archimate:BusinessInterface>

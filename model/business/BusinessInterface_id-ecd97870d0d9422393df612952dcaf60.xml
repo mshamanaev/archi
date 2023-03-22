@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API IBM WebSphere MQ "
+    id="id-ecd97870d0d9422393df612952dcaf60"
+    documentation="получение информации о юридических лицах и индивидуальных предпринимателях, содержащуюся в ЕГРЮЛ, ЕГРИП, сведений из реестра малого и среднего предпринимательства; сведений о наличии (отсутствии) задолженности по уплате налогов сборов, пеней, штрафов, процентов.">
+  <properties
+      key="bns_Interface"
+      value="API IBM WebSphere MQ"/>
+</archimate:BusinessInterface>

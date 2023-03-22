@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность формирования постановления / предписания по информационному листу"
+    id="id-d4c6c310d97447d09a79bce108510001">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-08-07"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

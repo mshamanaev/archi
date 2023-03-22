@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KNO-CORE (монолит)"
+    id="id-5bf0ea74733a4323af492261568d5f97">
+  <properties
+      key="app_Framework"/>
+  <properties
+      key="app_Technology"/>
+</archimate:ApplicationService>

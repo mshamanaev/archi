@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр и поиск событий в интеграционном журнале"
+    id="id-1a5e8e7d9495417ab9674c62b5b6584e">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-19-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с АСКД КНД (в части получения сведений из паспортов проверок)"
+    id="id-4e6877881e9c47c2b989b8164090af41">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-07"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

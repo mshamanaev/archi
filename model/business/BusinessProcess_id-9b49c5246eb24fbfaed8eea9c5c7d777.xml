@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность Переход к альтернативному выбору КНО и виду контроля"
+    id="id-9b49c5246eb24fbfaed8eea9c5c7d777">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РС/22-21-42"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

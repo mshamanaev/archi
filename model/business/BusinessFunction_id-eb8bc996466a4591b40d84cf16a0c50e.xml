@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование отчета &quot;Работа с записями на консультирование&quot; в ЛК Оператора и Тех. Оператора"
+    id="id-eb8bc996466a4591b40d84cf16a0c50e">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-06-42"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

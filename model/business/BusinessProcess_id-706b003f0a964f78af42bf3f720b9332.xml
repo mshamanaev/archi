@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность импорта анкет из реестра анкет (в ЛК Оператора)"
+    id="id-706b003f0a964f78af42bf3f720b9332">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РС/22-27-20"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр детальной информации бизнесов цифрового профиля"
+    id="id-2511d2688e534c00bf0b90cb35989169">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-04, 12/РД/21-07-19, ХХ/1/РД/22-07-24, ХХ/2/РД/22-07-28"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

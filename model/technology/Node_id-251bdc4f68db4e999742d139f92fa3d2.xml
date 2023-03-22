@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KNO-PGSQL1S, KNO-PGSQL2S"
+    id="id-251bdc4f68db4e999742d139f92fa3d2">
+  <properties
+      key="sys_vCPU"/>
+  <properties
+      key="sys_RAM"/>
+  <properties
+      key="sys_HDD"/>
+</archimate:Node>

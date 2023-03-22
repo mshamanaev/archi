@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность рассмотрения заявки на запись на консультирование из ЛК КНО"
+    id="id-204673ca4f414aa580b216d4a6ea61a2">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-21-10, ХХ/1/РД/22-21-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

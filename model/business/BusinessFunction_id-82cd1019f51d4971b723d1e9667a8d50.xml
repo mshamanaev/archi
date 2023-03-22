@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр списка цифровых профилей (в ЛК Операторов и КНО)"
+    id="id-82cd1019f51d4971b723d1e9667a8d50">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-01, 12/РД/21-07-18"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

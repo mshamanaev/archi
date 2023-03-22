@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Выгрузка отчета по симуляции нагрузки на бизнес"
+    id="id-67e8243eba004343b46e0979d0c25995">
+  <properties
+      key="bns_Function"
+      value="64/РС/21-11-05"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

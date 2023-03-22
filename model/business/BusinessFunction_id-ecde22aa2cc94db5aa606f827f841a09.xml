@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр и поиск полученных уведомлений в ЛК КНО"
+    id="id-ecde22aa2cc94db5aa606f827f841a09">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-13-05, 12/РД/21-13-27, ХХ/2/РД/22-13-57"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

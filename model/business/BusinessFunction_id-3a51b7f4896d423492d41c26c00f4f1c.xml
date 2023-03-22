@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность формирования запросов на предоставление документов/сведений в ЛК КНО"
+    id="id-3a51b7f4896d423492d41c26c00f4f1c">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-16-02, 12/РД/21-16-19, ХХ/2/РД/22-16-29"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

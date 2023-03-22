@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prometheus"
+    id="id-ca2525857b144f678ca46871c82e0388">
+  <properties
+      key="sys_Technology"
+      value="Prometheus"/>
+</archimate:SystemSoftware>

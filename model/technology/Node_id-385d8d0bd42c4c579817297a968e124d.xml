@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CPKNO-PGSQL1P, CPKNO-PGSQL2P"
+    id="id-385d8d0bd42c4c579817297a968e124d">
+  <properties
+      key="sys_vCPU"/>
+  <properties
+      key="sys_RAM"/>
+  <properties
+      key="sys_HDD"/>
+</archimate:Node>

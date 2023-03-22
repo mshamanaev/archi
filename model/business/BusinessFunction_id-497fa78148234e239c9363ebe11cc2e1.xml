@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Обращения в КНО&quot; (Обращения в КНО)"
+    id="id-497fa78148234e239c9363ebe11cc2e1">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-03-06, 12/РД/21-03-17"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

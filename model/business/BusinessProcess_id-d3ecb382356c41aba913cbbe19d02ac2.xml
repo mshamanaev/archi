@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Хранение жалоб и приложенных файлов"
+    id="id-d3ecb382356c41aba913cbbe19d02ac2">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

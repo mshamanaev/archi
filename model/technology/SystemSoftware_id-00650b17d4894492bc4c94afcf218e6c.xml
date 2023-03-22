@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Haproxy"
+    id="id-00650b17d4894492bc4c94afcf218e6c">
+  <properties
+      key="sys_Technology"
+      value="Haproxy"/>
+</archimate:SystemSoftware>

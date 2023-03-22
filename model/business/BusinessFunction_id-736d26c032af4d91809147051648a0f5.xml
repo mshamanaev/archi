@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр сформированных запросов и полученных ответов на запросы в ЛК Делового объединения"
+    id="id-736d26c032af4d91809147051648a0f5">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-20"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Комментарий юриста&quot;"
+    id="id-ff69c06eda4a4b85bba761636f129582">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-05-24"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

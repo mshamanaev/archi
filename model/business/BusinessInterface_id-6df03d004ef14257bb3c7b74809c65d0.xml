@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API IBM WebSphere MQ (copy)"
+    id="id-6df03d004ef14257bb3c7b74809c65d0"
+    documentation="Получение сведений из паспортов проверок.">
+  <properties
+      key="bns_Interface"
+      value="API IBM WebSphere MQ"/>
+</archimate:BusinessInterface>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Предоставление доступа внешним системам в сервис &quot;Задать вопрос в КНО&quot;"
+    id="id-cae4043bc6c54ff392891400a445e1c5">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-37, 12/РД/21-17-29, ХХ/1/РД/22-17-41"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

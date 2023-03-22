@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность взаимодействия с микросервисом «kno-core» через API"
+    id="id-9266433d75cc41dfb1df2c855a76b577">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-09-29"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

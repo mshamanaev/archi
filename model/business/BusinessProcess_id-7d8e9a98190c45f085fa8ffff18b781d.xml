@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр памятки по прохождению внеплановой проверки"
+    id="id-7d8e9a98190c45f085fa8ffff18b781d"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РС/22-07-28.1:&#xD;&#xA;ХХ/2/РС/22-07-28.1 Реализация экранной формы памятки по прохождению внеплановой проверки">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РС/22-07-28"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

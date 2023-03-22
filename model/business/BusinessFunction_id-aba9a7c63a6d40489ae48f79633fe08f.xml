@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Управление нормативно-правовыми актами"
+    id="id-aba9a7c63a6d40489ae48f79633fe08f">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-22-19, 12/РД/21-22-35"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Предзаполнение формы вопроса к КНО при формировании вопроса из &quot;Информационного листа&quot;"
+    id="id-a7ccef4b9acd4d2bba14b361bd7db3a5">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-14-16"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

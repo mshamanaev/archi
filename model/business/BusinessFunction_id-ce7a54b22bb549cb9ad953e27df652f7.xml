@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность подачи жалобы при переходе через баннер из подсистемы &quot;Портал&quot;"
+    id="id-ce7a54b22bb549cb9ad953e27df652f7">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-04"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр и поиск полученных уведомлений в ЛК Самозанятого"
+    id="id-62f8173ab2e44f50aec22e97744c1422"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-13-53: &#xD;&#xA;ХХ/2/РД/22-13-53.2 Развитие экранной формы просмотра уведомлений в ЛК Самозанятого&#xD;&#xA;&#xD;&#xA;Функции, реализуемые в инкременте ХХ/1/РД/22-13-44: &#xD;&#xA;ХХ/1/РД/22-13-44.1 Развитие алгоритма фильтрации данных в разделе «Уведомления» в ЛК Самозанятого&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РД/22-13-44, ХХ/2/РД/22-13-53"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

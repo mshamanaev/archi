@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docker"
+    id="id-157bcc4e7d264b69ae20b1486be2675d">
+  <properties
+      key="sys_Technology"
+      value="Docker"/>
+</archimate:SystemSoftware>

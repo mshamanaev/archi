@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность загрузки обязательных требований из структурированного файла формата Excel"
+    id="id-e31fb55e624c4731a73e76b1d0991db4">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подсистема Личный кабинет Бизнеса"
+    id="id-33f47ff8ed8947fa90915e85e510adb8"
+    documentation="Подсистема предоставляет пользователям интерфейс для просмотра и ввода информации для обеспечения взаимодействия с КНО&#xD;&#xA;&#xD;&#xA;Расширение перечня доступных функций.&#xD;&#xA;Мониторинг ключевых событий.&#xD;&#xA;Юридически значимый документооборот с КНО.&#xD;&#xA;Устранение последствий результатов контрольных (надзорных) мероприятий.&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

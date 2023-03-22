@@ -1,0 +1,11 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="188.093.020.003 188.093.020.004 010.015.004.204 010.089.079.029 010.089.070.144 185.187.091.024 010.089.065.020 212.011.152.165 010.127.130.016 010.127.130.017 010.019.091.129 188.093.020.003 188.093.020.004 010.015.004.204 010.127.130.006 "
+    id="id-121a05f157594724835e8bbf6af5bc6e">
+  <properties
+      key="sys_IP"/>
+  <properties
+      key="sys_Port"/>
+  <properties
+      key="sys_Protocol"/>
+</archimate:TechnologyInterface>

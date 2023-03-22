@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REST"
+    id="id-d0610791a1454571907c8a539d640d38"
+    documentation="&#x9;формирования квалицированной ЭП документа;&#xD;&#xA;&#x9;получения пользователем ранее сформированной ЭП;&#xD;&#xA;&#x9;возможность валидации ЭП.">
+  <properties
+      key="bns_Interface"
+      value="REST"/>
+</archimate:BusinessInterface>

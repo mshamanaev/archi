@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Реестр жалоб в ЛК Деловое объединение"
+    id="id-5ed7173c8d4d4d758041e7a19aa0002c">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

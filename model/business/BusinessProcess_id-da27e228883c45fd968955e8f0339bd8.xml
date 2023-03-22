@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Поиск организаций в риск-рейтинге в ЛК КНО"
+    id="id-da27e228883c45fd968955e8f0339bd8">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-26-07"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

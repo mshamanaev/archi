@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PostgreSQL"
+    id="id-fc23a00cd900499091023320d31785ea">
+  <properties
+      key="sys_DB"
+      value="PostgreSQL"/>
+</archimate:SystemSoftware>

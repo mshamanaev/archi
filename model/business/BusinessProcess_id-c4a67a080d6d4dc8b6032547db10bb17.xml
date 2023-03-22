@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Выгрузи из системы только действующих ОТ"
+    id="id-c4a67a080d6d4dc8b6032547db10bb17">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-11-06"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

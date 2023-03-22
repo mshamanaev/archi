@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Размещение новостных и/или обучающих материалов из ЛК Оператора (с возможностью прикреплять файлы)"
+    id="id-7266672c3e18490ba645bf0c890686bd">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-01-14, 12/РД/22-01-31"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

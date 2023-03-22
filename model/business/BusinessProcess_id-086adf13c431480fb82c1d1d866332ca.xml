@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Аннулирование обязательных требований"
+    id="id-086adf13c431480fb82c1d1d866332ca">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-10"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

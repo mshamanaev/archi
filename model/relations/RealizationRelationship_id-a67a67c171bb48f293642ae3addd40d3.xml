@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a67a67c171bb48f293642ae3addd40d3"
+    documentation="ХХ/2/РД/22-17-54 Взаимодействие компонента «монолит (фронтэнд)» и «монолит (бэкэнд)»">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1edd03a685e44e05a39122243132efaf.xml#id-1edd03a685e44e05a39122243132efaf"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-c244fb4f08f243b4ac118b2f0e2cc84a.xml#id-c244fb4f08f243b4ac118b2f0e2cc84a"/>
+</archimate:RealizationRelationship>

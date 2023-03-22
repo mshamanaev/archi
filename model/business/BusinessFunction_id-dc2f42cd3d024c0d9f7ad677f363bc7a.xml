@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование отчетов «Работа с жалобами на постановления» в ЛК КНО"
+    id="id-dc2f42cd3d024c0d9f7ad677f363bc7a"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/23-06-45: &#xD;&#xA;ХХ/2/РД/23-06-45.1 Ограничение доступа пользователей с полномочием КНО к отчету «Работа с жалобами на постановления» &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-06-13, ХХ/2/РД/23-06-45"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

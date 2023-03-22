@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность вынесения определения по ходатайству"
+    id="id-ccfc41a25efc499b9473aa7d353c1638">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-19"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Traefik"
+    id="id-9d321a1576da4fddab0944019f2de203">
+  <properties
+      key="sys_Technology"
+      value="Traefik"/>
+</archimate:SystemSoftware>

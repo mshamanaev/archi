@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KNO-STORAGE1S, KNO-STORAGE2S, KNO-STORAGE3S, KNO-STORAGE4S"
+    id="id-934e1b58f13846f0b144e98ac8cfbb80">
+  <properties
+      key="sys_vCPU"/>
+  <properties
+      key="sys_RAM"/>
+  <properties
+      key="sys_HDD"/>
+</archimate:Node>

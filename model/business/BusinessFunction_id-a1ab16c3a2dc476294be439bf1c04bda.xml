@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Настройка уведомлений в ЛК Делового объединения"
+    id="id-a1ab16c3a2dc476294be439bf1c04bda">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-13"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

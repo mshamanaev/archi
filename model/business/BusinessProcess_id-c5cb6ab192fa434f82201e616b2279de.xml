@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр производственного календаря в ЛК Оператора, Технологического оператора"
+    id="id-c5cb6ab192fa434f82201e616b2279de">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-20-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

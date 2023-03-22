@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр жалоб и информации по ней в рамках статусной модели из ЛК Делового объединения"
+    id="id-06f3614987ac4013baf1e151a6610387">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-24"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

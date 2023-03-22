@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность переадресации вопроса из ЛК Оператора64/РС/20-14-07"
+    id="id-3a0961ce289e47c9ade16027028750c4">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-1464/РС/20-14-07-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

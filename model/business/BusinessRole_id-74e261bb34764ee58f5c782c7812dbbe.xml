@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Представитель Делового объединения"
+    id="id-74e261bb34764ee58f5c782c7812dbbe">
+  <properties
+      key="bns_Role"
+      value="BUSINESS_ASSOCIATION"/>
+</archimate:BusinessRole>

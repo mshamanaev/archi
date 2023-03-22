@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к подсистеме &quot;Цифровой профиль субъекта контроля&quot; в части цифровых профилей, входящий в объединение"
+    id="id-5fe88d9aa3574d2c99f03d3aae604d6b">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-04"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

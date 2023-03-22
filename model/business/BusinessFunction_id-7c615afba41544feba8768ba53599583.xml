@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование отчетов по системе &quot;Комментарии юриста&quot; в ЛК Оператора, Тех. Оператора"
+    id="id-7c615afba41544feba8768ba53599583">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-06-17"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

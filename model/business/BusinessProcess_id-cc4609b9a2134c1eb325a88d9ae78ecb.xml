@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность перехода на сайт КНО для просмотра однотипных обращений"
+    id="id-cc4609b9a2134c1eb325a88d9ae78ecb">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-21-13"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

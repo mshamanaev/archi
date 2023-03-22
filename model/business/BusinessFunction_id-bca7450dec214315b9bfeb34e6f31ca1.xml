@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ведение реестра КНО"
+    id="id-bca7450dec214315b9bfeb34e6f31ca1"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-18-72: &#xD;&#xA;ХХ/1/РД/22-18-72.1. Доработка экранной формы карточки КНО в части добавления поля «Подразделение» и признака «Орган контроля осуществляет консультирование»&#xD;&#xA;ХХ/1/РД/22-18-72.2. Доработка функции хранения данных о виде контроля в Перечне КНО в части новых полей&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-18-02, ХХ/1/РД/22-18-72, ХХ/2/РД/22-18-76"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Назначение рассмотрения жалобы"
+    id="id-41ed8db48bff4980ae40cb56e4650e54">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-21"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

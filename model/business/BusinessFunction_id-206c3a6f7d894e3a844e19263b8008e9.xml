@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Размещение вопросов по системе, из ЛК Оператора"
+    id="id-206c3a6f7d894e3a844e19263b8008e9">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-01-21"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Учет действующих ОТ на этапах симулятора"
+    id="id-6021c249f94247a589e3712dd2761c7c">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-11-04"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

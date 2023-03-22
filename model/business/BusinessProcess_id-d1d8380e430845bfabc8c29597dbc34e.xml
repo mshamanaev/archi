@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Продление срока рассмотрения обращения в ЛК КНО"
+    id="id-d1d8380e430845bfabc8c29597dbc34e">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-15-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

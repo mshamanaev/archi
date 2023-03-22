@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подписание документов с помощью сервиса &quot;ЭП&quot;"
+    id="id-d0a910f1df154dadab35b39dfeaa0aeb">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-04-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

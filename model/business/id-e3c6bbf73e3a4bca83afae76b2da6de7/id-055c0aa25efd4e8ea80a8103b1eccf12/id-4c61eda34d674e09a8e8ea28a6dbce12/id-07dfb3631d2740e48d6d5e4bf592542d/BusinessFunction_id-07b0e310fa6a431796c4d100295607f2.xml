@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ведение справочника &quot;Типы цифрового профиля объекта&quot;"
+    id="id-07b0e310fa6a431796c4d100295607f2"
+    documentation="ХХ/1/РД/22-18-66 &#xD;&#xA;o&#x9;Развитие справочника «Типы цифрового профиля объекта».&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-18-13, ХХ/1/РД/22-18-63"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

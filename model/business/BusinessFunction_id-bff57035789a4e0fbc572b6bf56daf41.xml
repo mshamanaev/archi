@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с ЕСИА"
+    id="id-bff57035789a4e0fbc572b6bf56daf41">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-10"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Поиск и фильтрация обращений в ЛК Бизнеса"
+    id="id-16c8baca1e5c49d989cab03709d3e4df">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-15-05, 12/РД/21-15-18"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

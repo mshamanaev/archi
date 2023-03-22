@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование ответа на запросы от КНО в ЛК КНО"
+    id="id-4ff08d7fe09848bba7f34fc15b3501ce">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-16-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

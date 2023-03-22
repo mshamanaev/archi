@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подсистема Цифровой профиль субьекта контроля "
+    id="id-1aca0acf9e5e471e8fdeee8c95e9eef9"
+    documentation="Подсистема предназначена для аккумулирования данных о субъекте контроля из различных источников.&#xD;&#xA;&#xD;&#xA;Формирование профиля субъекта контроля, в т.ч. на основе сведений из внешних информационных систем.">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

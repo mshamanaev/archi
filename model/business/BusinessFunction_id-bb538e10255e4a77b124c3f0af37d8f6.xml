@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность взаимодействия с микросервисом «sier-integration» через API"
+    id="id-bb538e10255e4a77b124c3f0af37d8f6">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-09-28"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

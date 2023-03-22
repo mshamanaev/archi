@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование отчетов &quot;Работа с вопросами&quot; в ЛК КНО"
+    id="id-cd64a42775874b5ca86c9579b99cdb50"
+    documentation="ХХ/1/РД/22-06-39&#xD;&#xA;&#x9;Развитие алгоритма подготовки данных для отчета:&#xD;&#xA;&#x9;Развитие шаблона отчета:">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-06-03, 12/РД/21-06-26, ХХ/1/РД/22-06-39"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность просмотра списка сформированных риск-рейтингов в ЛК КНО"
+    id="id-525dfcb7220a4819a3b9eeac6a5d685f">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-26-04"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

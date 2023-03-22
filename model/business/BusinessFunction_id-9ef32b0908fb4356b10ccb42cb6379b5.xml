@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Получение сведений, размещаемых АИС «Мослицензия» на Портале открытых данных г. Москвы data.mos.ru"
+    id="id-9ef32b0908fb4356b10ccb42cb6379b5">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Поиск и фильтрация обращений в ЛК Самозанятого"
+    id="id-dab6ca0032a54fe9b543c7a0dbcfa883">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-15-14"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

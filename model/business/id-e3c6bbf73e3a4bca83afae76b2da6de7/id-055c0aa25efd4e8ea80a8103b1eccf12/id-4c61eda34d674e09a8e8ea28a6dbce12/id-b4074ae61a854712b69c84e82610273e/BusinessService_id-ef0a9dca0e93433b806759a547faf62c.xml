@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Сервис авторизации(аут-ции) КНО через внутренний СУДИР"
+    id="id-ef0a9dca0e93433b806759a547faf62c"
+    documentation="Абстрактный сервис">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

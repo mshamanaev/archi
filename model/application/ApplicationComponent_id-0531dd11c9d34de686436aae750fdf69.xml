@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ru.lanit.kno.backend.events*"
+    id="id-0531dd11c9d34de686436aae750fdf69">
+  <properties
+      key="app_Framework"/>
+  <properties
+      key="app_Git"/>
+  <properties
+      key="app_UUID"/>
+  <properties
+      key="app_Version"/>
+  <properties
+      key="app_Technology"/>
+</archimate:ApplicationComponent>

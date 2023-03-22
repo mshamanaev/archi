@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность добавления и отправки ответа на информационный лист из ЛК Бизнеса"
+    id="id-1d6db1bec2fc402dbdc1061e79fc780e">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-08-12"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

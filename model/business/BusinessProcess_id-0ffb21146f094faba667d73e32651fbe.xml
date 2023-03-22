@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр жалобы на нарушение моратория и информации по ней"
+    id="id-0ffb21146f094faba667d73e32651fbe">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-09-19"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

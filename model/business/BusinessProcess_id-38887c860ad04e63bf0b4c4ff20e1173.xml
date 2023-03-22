@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Прикрепление файла к вопросу из ЛК"
+    id="id-38887c860ad04e63bf0b4c4ff20e1173">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-14-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

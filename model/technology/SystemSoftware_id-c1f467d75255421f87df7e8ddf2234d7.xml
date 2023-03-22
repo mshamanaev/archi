@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kafka"
+    id="id-c1f467d75255421f87df7e8ddf2234d7">
+  <properties
+      key="sys_Technology"
+      value="Kafka"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность ограничения времени записи &quot;Консультирование&quot; в ЛК Оператора"
+    id="id-fb4cfbab5ec84ba69650af287277bc14">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-22-40"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

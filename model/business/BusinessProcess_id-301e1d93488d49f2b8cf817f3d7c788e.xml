@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Скачивание результата опроса в формате pdf"
+    id="id-301e1d93488d49f2b8cf817f3d7c788e"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-27-14: &#xD;&#xA;ХХ/2/РД/22-27-14.1 Реализация функции формирования и выгрузки pdf файла с результатами опроса&#xD;&#xA;ХХ/2/РД/22-27-14.2 Реализация алгоритма формирования списка нарушений и памятки в pdf файле с результатами опроса&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-27-03, ХХ/2/РД/22-27-14"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

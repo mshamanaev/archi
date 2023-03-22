@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр и поиск информации о лицензиях субъекта контроля (из реестра лицензий)"
+    id="id-e136f77d608d4d378cc3833a8ae8f898">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-12"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность формирования ходатайства о приобщении документов из ЛК Бизнеса"
+    id="id-d76441838f354d19a2a0cded922c72af">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-11"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

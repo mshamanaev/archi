@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="инф. об орг."
+    id="id-31712136814a47bf87b742e1fd8773db">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-66368fd762eb4d389ec354cefec4e9f1.xml#id-66368fd762eb4d389ec354cefec4e9f1"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-7c26ec51f1ab46e59e9d30c35a7c9f1a.xml#id-7c26ec51f1ab46e59e9d30c35a7c9f1a"/>
+</archimate:FlowRelationship>

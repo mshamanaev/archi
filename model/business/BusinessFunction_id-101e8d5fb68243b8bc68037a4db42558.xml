@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с DaData.ru"
+    id="id-101e8d5fb68243b8bc68037a4db42558">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-14"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

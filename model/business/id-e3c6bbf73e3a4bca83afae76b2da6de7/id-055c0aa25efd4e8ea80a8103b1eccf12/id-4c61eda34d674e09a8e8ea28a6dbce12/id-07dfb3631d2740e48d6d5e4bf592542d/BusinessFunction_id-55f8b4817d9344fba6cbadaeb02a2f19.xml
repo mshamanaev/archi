@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр справочников и поиск позиций справочников"
+    id="id-55f8b4817d9344fba6cbadaeb02a2f19"
+    documentation="ХХ/1/РД/22-18-64&#xD;&#xA;&#x9;Реализация функции хранения справочника «Тема консультирования».&#xD;&#xA;&#x9;Развитие функции просмотра справочников в части добавления справочника «Темы консультирования»;&#xD;&#xA;&#x9;Реализация поиска позиций справочника «Темы консультирования» в разделе “Справочники и классификаторы” навигационного меню;&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РД/22-18-64"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

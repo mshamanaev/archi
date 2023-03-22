@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Удаление слота"
+    id="id-11aaec638fc44c69bb03a2ea0cb1495b">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-21-02, ХХ/1/РД/22-21-20"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

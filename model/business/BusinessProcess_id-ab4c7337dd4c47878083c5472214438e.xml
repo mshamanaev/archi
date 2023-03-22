@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность движения обращения/жалобы/заявления по статусной модели в ЛК КНО"
+    id="id-ab4c7337dd4c47878083c5472214438e">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-15-21, 12/РД/21-15-15"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

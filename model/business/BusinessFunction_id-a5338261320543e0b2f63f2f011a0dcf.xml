@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Предоставление внешним системам информации, соответствующей существующим требованиям к загрузке обязательных требований в Системы"
+    id="id-a5338261320543e0b2f63f2f011a0dcf">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

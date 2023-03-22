@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Переадресация обращения в ЛК КНО"
+    id="id-a497aef669dd45e9b799f72c8fd246d7">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-15-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

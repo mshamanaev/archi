@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование отчета со статистикой по пройденным опросам сервиса «Калькулятор рисков»"
+    id="id-c63a0f69d31e47b1869f300d0da6e955">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-06-37"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

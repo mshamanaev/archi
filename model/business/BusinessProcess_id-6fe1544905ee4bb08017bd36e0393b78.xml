@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр полученных обращений в ЛК КНО"
+    id="id-6fe1544905ee4bb08017bd36e0393b78">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-15-04"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

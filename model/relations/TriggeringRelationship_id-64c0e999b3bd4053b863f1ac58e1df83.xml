@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OIDC REST"
+    id="id-64c0e999b3bd4053b863f1ac58e1df83"
+    documentation="Информация по КНО&#xD;&#xA;получения из СУДИР информации, идентифицирующей пользователя (и организацию), и информации о пользователе и организации">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-1e0bd67e60b34034b0308686468bfbd2.xml#id-1e0bd67e60b34034b0308686468bfbd2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-7692c583699f494cb179fec3ebc671c6.xml#id-7692c583699f494cb179fec3ebc671c6"/>
+</archimate:TriggeringRelationship>

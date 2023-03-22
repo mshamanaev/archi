@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность отзыва жалобы из ЛК Бизнеса и Самозанятого"
+    id="id-a4398206f1a2461db36de1ad16e72e67"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-09-26: &#xD;&#xA;ХХ/1/РД/22-09-26.1 Развитие функции отзыва в части возможности отзыва ходатайства об отсрочке исполнения решения&#xD;&#xA;ХХ/1/РД/22-09-26.2 Создание экранной формы отзыва ходатайства об отсрочке исполнения решения&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-11, ХХ/2/РД/22-09-26"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Хранение жалоб, ходатайств и приложенных файлов"
+    id="id-f0c1017430884fff91a69bc706754b9d"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-09-21: &#xD;&#xA;ХХ/1/РД/22-09-21.1 Реализация функции хранения данных по ходатайству об отсрочке исполнения решения&#xD;&#xA;ХХ/1/РД/22-09-21.3 Реализация алгоритма движения ходатайства об отсрочке исполнения решения по статусной модели&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-02, ХХ/1/РД/22-09-21, ХХ/2/РД/22-09-21"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

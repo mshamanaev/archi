@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование отчетов &quot;Обязательные требования&quot; в ЛК Оператора и Тех. Оператора&quot;"
+    id="id-71b47208114a41548a34ef12880c6119"
+    documentation="64/РС/20-06-01, 12/РД/21-06-24">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-06-01, 12/РД/21-06-24"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

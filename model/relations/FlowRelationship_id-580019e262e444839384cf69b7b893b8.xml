@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подсказки по адресам"
+    id="id-580019e262e444839384cf69b7b893b8">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-bf1db737b42d41a6b3f5d023974bbd0e.xml#id-bf1db737b42d41a6b3f5d023974bbd0e"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-9435a1e0493b4593981e46915b085c89.xml#id-9435a1e0493b4593981e46915b085c89"/>
+</archimate:FlowRelationship>

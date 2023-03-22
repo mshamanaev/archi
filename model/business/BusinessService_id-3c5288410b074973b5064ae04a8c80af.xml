@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подсистема Личный кабинет Оператора"
+    id="id-3c5288410b074973b5064ae04a8c80af"
+    documentation="Разработан в 2022 году в рамках первого этапа контракта №ХХХХХХХХХХ от ХХ.ХХ.2022&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KNODB"
+    id="id-e0b07e15d7174b7d8b437a894dece809"
+    documentation="Создана в контракте XXXXX от ХХ.ХХ.2022&#xD;&#xA;answers &quot;Ответы&quot; новая&#xD;&#xA;feedback &quot;Пользовательские отзывы по окончании опросов&quot; новая&#xD;&#xA;questions &quot;Вопросы для опросов&quot; новая&#xD;&#xA;quizzes &quot;Опросы&quot; новая&#xD;&#xA;quizzes_results &quot;Результат опроса&quot; новая&#xD;&#xA;txno_inbox Техническая  для обеспечения транзакционности новая&#xD;&#xA;txno_outbox Техническая  для обеспечения транзакционности новая&#xD;&#xA;txno_version Техническая  для обеспечения транзакционности новая&#xD;&#xA;databasechangeloglock Техническая  «Блокировка изменений БД» новая&#xD;&#xA;databasechangelog Техническая  «Лог изменений БД BADB» новая"/>

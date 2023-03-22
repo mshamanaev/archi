@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Настройка уведомлений в ЛК &quot;Бизнеса&quot;"
+    id="id-0a09316930de40a480e5d707c8d14e50">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-03-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

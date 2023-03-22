@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр и настройка уведомлений в ЛК &quot;Оператора&quot;"
+    id="id-71ea48c2a31e4742ac2507f4da894798">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-22-24"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

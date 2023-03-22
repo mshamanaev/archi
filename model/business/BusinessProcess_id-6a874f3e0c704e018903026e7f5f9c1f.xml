@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Получение пользователем ранее сформированной ЭП из внешнего сервиса"
+    id="id-6a874f3e0c704e018903026e7f5f9c1f">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-12-02"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

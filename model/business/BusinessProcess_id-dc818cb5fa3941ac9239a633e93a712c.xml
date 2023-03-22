@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подписание запросов на предоставление документов/сведений через сервис &quot;ЭП&quot; в ЛК КНО"
+    id="id-dc818cb5fa3941ac9239a633e93a712c">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-16-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

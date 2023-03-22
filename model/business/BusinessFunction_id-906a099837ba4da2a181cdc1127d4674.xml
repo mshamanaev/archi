@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность добавления, удаления, изменения бизнесов"
+    id="id-906a099837ba4da2a181cdc1127d4674">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-14, 12/РД/21-07-22, ХХ/1/РД/22-07-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alertmanager"
+    id="id-9e7693f8b41e45c59a38aa8154585023">
+  <properties
+      key="sys_Technology"
+      value="Alertmanager"/>
+</archimate:SystemSoftware>

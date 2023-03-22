@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность настройкипараметров расчета показателей оценки субъектов контроля в ЛК Оператора"
+    id="id-701ed6068d6d444c8ca2cadd569ca479">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-26-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

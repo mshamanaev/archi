@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотре жалобы и информации по ней в рамках статусной модели в ЛК Оператора"
+    id="id-e2db0d92dea04812950417bbc68da8db">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-25"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность импорта вопросов и ответов в ЛК Оператора и Тех. Оператора"
+    id="id-f5e7386fdca94ff88f95c32b0d2f42bf"
+    documentation="ХХ/1/РС/22-27-08&#xD;&#xA;&#x9;Реализация экранной формы импорта&#xD;&#xA;&#x9;Реализация алгоритма контроля заполнения обязательных полей перед импортом. &#xD;&#xA;&#x9;Реализация алгоритма проверок при импорте.&#xD;&#xA;&#x9;Реализация функции импорта вопросов и ответов:&#xD;&#xA;&#x9;Реализация экранной формы сообщения с результатами импорта.">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-27-06"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

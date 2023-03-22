@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Досудебное обжалование&quot; (Обжалование постановлений по административным делам)"
+    id="id-f735e53c24314582829a404f4e9e29d2">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-05-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

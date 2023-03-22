@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Размещение комментариев юриста из ЛК КНО, Оператора"
+    id="id-89c66ff1844e48dba71428e3b3a764d1">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-01-20"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

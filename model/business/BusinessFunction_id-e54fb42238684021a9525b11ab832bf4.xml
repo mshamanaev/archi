@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Запись на приём&quot;"
+    id="id-e54fb42238684021a9525b11ab832bf4">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-04-10,  12/РС/21-04-20"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

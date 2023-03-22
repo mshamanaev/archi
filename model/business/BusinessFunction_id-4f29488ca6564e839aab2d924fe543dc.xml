@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение взаимодействия внешних систем с сервисом Консультирование "
+    id="id-4f29488ca6564e839aab2d924fe543dc">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-15, 12/РД/21-17-27, ХХ/1/РД/22-17-40"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

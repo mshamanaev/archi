@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение перехода в раздел &quot;Консультирования&quot; из ЛК ПКНД  через внутренний СУДИР"
+    id="id-eebe3b69f9594c36ad44e2665982011e">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-19-12"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

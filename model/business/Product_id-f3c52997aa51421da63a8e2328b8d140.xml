@@ -1,0 +1,13 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ФГИС ЕРП"
+    id="id-f3c52997aa51421da63a8e2328b8d140"
+    documentation="«Единый реестр проверок»">
+  <properties
+      key="bns_Cluster"/>
+  <properties
+      key="bns_RIRS"/>
+  <properties
+      key="bns_UUID"
+      value="16FE9688-C1BF-4C77-BADF-1CA8F2E8D135"/>
+</archimate:Product>

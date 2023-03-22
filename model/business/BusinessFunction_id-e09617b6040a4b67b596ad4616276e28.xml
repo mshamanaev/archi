@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Производственный календарь&quot;"
+    id="id-e09617b6040a4b67b596ad4616276e28">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-05-25"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

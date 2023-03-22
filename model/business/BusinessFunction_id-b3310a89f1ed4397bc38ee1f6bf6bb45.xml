@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие компонента «Монолит (фронтенд) и микросервиса «pretrial-complaints-248FZ-service»"
+    id="id-b3310a89f1ed4397bc38ee1f6bf6bb45"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-17-52:&#xD;&#xA;ХХ/2/РД/22-17-52.1 Реализация метода получения КНМ по номеру&#xD;&#xA;ХХ/2/РД/22-17-52.3 Реализация метода получения КНМ по идентификатору&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РД/22-17-52"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

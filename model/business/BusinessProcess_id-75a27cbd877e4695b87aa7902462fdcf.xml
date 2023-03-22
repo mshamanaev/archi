@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность вынесения решения по жалобе"
+    id="id-75a27cbd877e4695b87aa7902462fdcf">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

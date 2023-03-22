@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность создания производственного календаря"
+    id="id-9fa68cb311e448e29b3aea0f4e4525e9">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-20-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

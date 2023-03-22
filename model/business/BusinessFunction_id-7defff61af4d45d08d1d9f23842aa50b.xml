@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование рейтингов субъектов контроля на основании рассчитанных показателей и видам контроля для соответствующего Бизнеса в ЛК КНО"
+    id="id-7defff61af4d45d08d1d9f23842aa50b">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-26-02"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение возможности ЭП &quot;Информации по выданном предписании инф. листу&quot; в сервисе &quot;Устранение нарушений&quot; пользователям с полномочием КНО"
+    id="id-df1c417753bd4290a687a8a9103a121f">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-12-07"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

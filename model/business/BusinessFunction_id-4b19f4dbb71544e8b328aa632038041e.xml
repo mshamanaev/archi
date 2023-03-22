@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Управление данными пользователя организации"
+    id="id-4b19f4dbb71544e8b328aa632038041e">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-03-20"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

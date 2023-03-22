@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Представитель КНО"
+    id="id-eb19f770b8954533b1b3f1bf5c3ca9a7">
+  <properties
+      key="bns_Role"
+      value="KNO"/>
+</archimate:BusinessRole>

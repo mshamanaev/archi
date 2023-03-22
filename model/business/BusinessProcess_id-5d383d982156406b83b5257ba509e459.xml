@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность просмотра пройденных опросов"
+    id="id-5d383d982156406b83b5257ba509e459"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-27-18:&#xD;&#xA;ХХ/2/РД/22-27-18.1 Развитие экранной формы реестра опросов">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-27-10, ХХ/2/РД/22-27-18"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

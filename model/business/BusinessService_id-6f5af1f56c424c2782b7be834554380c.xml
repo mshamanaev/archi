@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подсистема Личный кабинет технологического оператора"
+    id="id-6f5af1f56c424c2782b7be834554380c"
+    documentation="Подсистема обеспечивает контроль и управление ключевыми функциями для отдельной категории пользователей.&#xD;&#xA;&#xD;&#xA;Управление правами доступа и ролями для сотрудников организаций.">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

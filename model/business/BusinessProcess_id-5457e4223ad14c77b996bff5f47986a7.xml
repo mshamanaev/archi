@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение и управления движением жалоб и решениям по ним по статусной модели"
+    id="id-5457e4223ad14c77b996bff5f47986a7">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

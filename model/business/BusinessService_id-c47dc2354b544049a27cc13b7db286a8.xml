@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подсистема Личный кабинет самозанятого"
+    id="id-c47dc2354b544049a27cc13b7db286a8"
+    documentation="Подсистема предоставляет пользователям интерфейс для просмотра и ввода информации для обеспечения взаимодействия с КНО.&#xD;&#xA; &#xD;&#xA;Расширение перечня доступных функций.&#xD;&#xA;Мониторинг ключевых событий.&#xD;&#xA;Юридически значимый документооборот с КНО.&#xD;&#xA;">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

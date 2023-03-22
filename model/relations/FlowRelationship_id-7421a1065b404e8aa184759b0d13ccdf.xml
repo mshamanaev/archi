@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="инф. о юр. лицах"
+    id="id-7421a1065b404e8aa184759b0d13ccdf">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-bfda4dbecbc04f4893262cc63ec6279a.xml#id-bfda4dbecbc04f4893262cc63ec6279a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-11e900ef6dc044b6b5d639256dcb9933.xml#id-11e900ef6dc044b6b5d639256dcb9933"/>
+</archimate:FlowRelationship>

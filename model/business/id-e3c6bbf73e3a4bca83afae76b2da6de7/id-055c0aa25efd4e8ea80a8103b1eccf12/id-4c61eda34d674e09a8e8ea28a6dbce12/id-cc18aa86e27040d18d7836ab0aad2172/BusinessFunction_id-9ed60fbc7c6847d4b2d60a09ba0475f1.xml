@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр и поиск полученных уведомлений в ЛК Бизнеса"
+    id="id-9ed60fbc7c6847d4b2d60a09ba0475f1"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-13-42:&#xD;&#xA;ХХ/1/РД/22-13-42.1 Развитие алгоритма фильтрации данных в разделе «Уведомления» в ЛК Бизнеса&#xD;&#xA;ХХ/1/РД/22-13-42.2">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-13-04, 12/РД/21-13-26, ХХ/1/РД/22-13-42, ХХ/2/РД/22-13-50"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

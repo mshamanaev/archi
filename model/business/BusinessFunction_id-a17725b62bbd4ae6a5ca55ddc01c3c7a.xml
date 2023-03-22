@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с ФГИС ЕРП (в части получения сведений из паспортов проверок)"
+    id="id-a17725b62bbd4ae6a5ca55ddc01c3c7a">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-06"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

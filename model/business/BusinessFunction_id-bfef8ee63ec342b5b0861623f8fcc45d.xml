@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Управление новостями портала"
+    id="id-bfef8ee63ec342b5b0861623f8fcc45d">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-06"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

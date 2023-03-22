@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Представитель Бизнеса"
+    id="id-569dda224fb6421ebfd21d8f5bddb8a4">
+  <properties
+      key="bns_Role"
+      value="BUSINESS"/>
+</archimate:BusinessRole>

@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие компонента «Монолит (фронтенд) и микросервиса «pretrial-complaints-service»"
+    id="id-3f4dec8c4f7d4877a4d7eeaa6a0c9f67"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-17-51:&#xD;&#xA;ХХ/2/РД/22-17-51.1 Реализация метода отправки запроса на отзыв жалобы&#xD;&#xA;ХХ/2/РД/22-17-51.2 Реализация метода получения списка запросов от КНО&#xD;&#xA;ХХ/2/РД/22-17-51.3 Реализация метода получения истории изменений административного дела&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РД/22-17-51"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

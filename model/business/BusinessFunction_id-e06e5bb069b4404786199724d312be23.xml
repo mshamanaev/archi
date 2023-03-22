@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр и поиск в реестре организаций"
+    id="id-e06e5bb069b4404786199724d312be23">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-22-05"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Устранение нарушений&quot; (информационные листы)"
+    id="id-dde3ce3d50c0472493c03ab5a1ba3ce7">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-05-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

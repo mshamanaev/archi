@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Регистрация в Системе организаций и их пользователей. Разграничение привилегий пользователей"
+    id="id-cb2c0c02e53a4bcc847fda5957f30265">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-19-02, 12/РД/21-19-09, ХХ/1/РД/22-19-15"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

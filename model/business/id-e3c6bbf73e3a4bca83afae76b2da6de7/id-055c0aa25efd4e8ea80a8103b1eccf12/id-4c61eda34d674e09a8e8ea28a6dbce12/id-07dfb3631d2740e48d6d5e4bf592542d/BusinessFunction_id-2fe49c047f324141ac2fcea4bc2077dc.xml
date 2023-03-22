@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Первичное наполнение справочников и классификаторов"
+    id="id-2fe49c047f324141ac2fcea4bc2077dc"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-18-75:&#xD;&#xA;ХХ/2/РД/22-18-75.2 Доработка первичного наполнения в части добавления системы «Внутренний СУДИР» &#xD;&#xA;ХХ/2/РД/22-18-75.3 Доработка первичного наполнения в части добавления следующих позиций при выполнении операций с сотрудником КНО&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-18-01, ХХ/1/РД/22-18-66, ХХ/2/РД/22-18-75"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

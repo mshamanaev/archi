@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр полученного ответа на сформированное обращение от контрольно-надзорного органа в ЛК Бизнеса"
+    id="id-b5853de8e6334264afc5d0ea4e4e9c68">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-15-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

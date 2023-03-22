@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение бесшовного перехода в систему с mos.ru"
+    id="id-6039ad999ef04a5ebb14463223daeb03">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-19-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

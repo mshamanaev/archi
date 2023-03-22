@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="openlayers JS"
+    id="id-b21e5fb23b134ddf8e5a835729ea498f"
+    documentation="получение картографических данных из Системы ЕГИП, а конкретно для получение функционала Подложки.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-1e0bd67e60b34034b0308686468bfbd2.xml#id-1e0bd67e60b34034b0308686468bfbd2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-7ad9169783a74d1baf3d4d3e57a9816c.xml#id-7ad9169783a74d1baf3d4d3e57a9816c"/>
+</archimate:TriggeringRelationship>

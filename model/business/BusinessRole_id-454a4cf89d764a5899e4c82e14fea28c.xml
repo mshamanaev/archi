@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Представитель самозанятых"
+    id="id-454a4cf89d764a5899e4c82e14fea28c">
+  <properties
+      key="bns_Role"
+      value="SELFEMPLOYED"/>
+</archimate:BusinessRole>

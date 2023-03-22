@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Добавление комментария юриста"
+    id="id-22f8b1856d9d4f8bade62cbac0eec220">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

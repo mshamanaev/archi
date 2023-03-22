@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр, изменение и добавление пользователей системы"
+    id="id-d911c4a241b64dd9be3947b0e4599917">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-05-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

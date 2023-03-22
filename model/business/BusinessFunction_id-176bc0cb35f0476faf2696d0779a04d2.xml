@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействия с внешним СУДИР"
+    id="id-176bc0cb35f0476faf2696d0779a04d2">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

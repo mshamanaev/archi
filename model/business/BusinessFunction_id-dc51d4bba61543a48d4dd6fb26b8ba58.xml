@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование виджета &quot;Динамика вынесения предписаний и постановлений по информационным листам&quot; в ЛК Оператора и Тех. Оператора"
+    id="id-dc51d4bba61543a48d4dd6fb26b8ba58">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-06-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

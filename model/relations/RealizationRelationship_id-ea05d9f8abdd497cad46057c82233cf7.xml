@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ea05d9f8abdd497cad46057c82233cf7"
+    documentation="ХХ/2/РД/22-17-52 Взаимодействие компонента «Монолит (фронтенд) и микросервиса «pretrial-complaints-248FZ-service»">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-dd444c64025d45ff899cc20da10da968.xml#id-dd444c64025d45ff899cc20da10da968"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-aa9c64758171469d86b26fba0460c080.xml#id-aa9c64758171469d86b26fba0460c080"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Размещение вопросов и ответы (Бизнес/КНО) из ЛК Оператора"
+    id="id-e19e264d034a4b4f8615f660f6257088">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-01-18"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

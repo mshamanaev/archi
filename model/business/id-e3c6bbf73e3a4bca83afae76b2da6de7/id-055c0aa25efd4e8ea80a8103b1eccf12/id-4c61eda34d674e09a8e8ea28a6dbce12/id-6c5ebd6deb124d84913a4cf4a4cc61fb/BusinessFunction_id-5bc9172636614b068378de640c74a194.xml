@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису «Калькулятор рисков» из ЛК Бизнеса"
+    id="id-5bc9172636614b068378de640c74a194"
+    documentation="ХХ/1/РС/22-03-20 &#xD;&#xA;o&#x9;Реализация экранной формы реестра опросов:&#xD;&#xA;o&#x9;Реализация экранной формы реестра опросов: не пройдено ни одного опроса:&#xD;&#xA;o&#x9;Реализация функции сортировки данных при отображении в реестре:&#xD;&#xA;ХХ/2/РД/22-03-21 &#xD;&#xA;&#x9;Развитие экранной формы реестра опросов ">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-03-20"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

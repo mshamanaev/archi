@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ведение справочника «Основания правоотношений»"
+    id="id-90812535362c4bc4888785ecc1cc3920"
+    documentation="ХХ/1/РС/22-18-65 &#xD;&#xA;o&#x9;Реализация справочника «Основания правоотношений».">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-18-65 "/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с ЕГИП (карта)"
+    id="id-7a6aa0e9822d4e7085d7e78c63c05651">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-13"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Поиск и фильтрация жалоб в ЛК Делового объединения"
+    id="id-bf8ac422c13e4ca98e7e4f7cfda26a24">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-02-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

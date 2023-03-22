@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность отклонения заявки на запись на консультирование из ЛК КНО"
+    id="id-69647adfa3c3479db0092db003658fd1"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-21-23:&#xD;&#xA;ХХ/1/РД/22-21-23.1. Ограничение доступа к возможности отклонения записи на консультирование">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РД/22-21-23, ХХ/2/РД/22-21-47"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

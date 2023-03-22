@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d38226b0891d47ebad0ad8938de5574e"
+    documentation="ХХ/2/РД/22-17-50 Взаимодействие компонента «Монолит (фронтенд) и микросервиса «offence-orders-service»">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8f15847f3b7e43b3b5af6d1c0bc7da33.xml#id-8f15847f3b7e43b3b5af6d1c0bc7da33"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-3b24016f8530476d80d44e1f62584bcd.xml#id-3b24016f8530476d80d44e1f62584bcd"/>
+</archimate:RealizationRelationship>

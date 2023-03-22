@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OIDC REST "
+    id="id-ad8003bc7e3249b1b17c96ebf2dd6813"
+    documentation="Информация по КНО&#xD;&#xA;получения из СУДИР информации, идентифицирующей пользователя (и организацию), и информации о пользователе и организации">
+  <properties
+      key="bns_Interface"
+      value="OIDC REST"/>
+</archimate:BusinessInterface>

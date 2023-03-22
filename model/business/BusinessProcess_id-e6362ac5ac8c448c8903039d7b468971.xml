@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр карточки лицензии"
+    id="id-e6362ac5ac8c448c8903039d7b468971">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-18"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность формирования вопроса КНО для уточнения результатов опроса"
+    id="id-3abd09840ba14a43a396109d1f29e7d1"
+    documentation="ХХ/1/РС/22-27-09&#xD;&#xA;o&#x9;Реализация алгоритма предзаполнения формы вопроса значением КНО, по которому был пройден опрос:">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-27-09"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

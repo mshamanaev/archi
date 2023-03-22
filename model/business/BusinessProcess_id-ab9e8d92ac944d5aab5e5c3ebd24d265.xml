@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр ходатайств в ЛК Бизнеса"
+    id="id-ab9e8d92ac944d5aab5e5c3ebd24d265">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-14"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

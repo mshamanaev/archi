@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Консультирование&quot; (&quot;Запись на приём&quot;)"
+    id="id-4aac118a4ba044a88d763a861e42bef3"
+    documentation="ХХ/1/РД/22-03-19 &#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-03-11, ХХ/1/РД/22-03-19"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр печатной формы запроса и ответа на запрос в ЛК Бизнеса"
+    id="id-8eec248e4bf140b8a6ecca6af431598c">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-16-10, 12/РД/21-16-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

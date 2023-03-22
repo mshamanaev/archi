@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Подсистема Личный кабинет Оператора"
+    id="id-c6f05d31575a407f87d51909dd5e84f2"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-04-32:&#xD;&#xA;ХХ/2/РД/22-04-32.1">
+  <properties
+      key="bns_Subsystem"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:BusinessService>

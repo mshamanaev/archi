@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр и поиск информации на странице сервиса «Помощь»"
+    id="id-ffe496311b404bdba9c8a922433095f6"
+    documentation="Функции, реализуемые в инкременте XX/2/РД/22-01-41:&#xD;&#xA;XX/2/РД/22-01-41.1 Развитие экранной формы раздела «Помощь» в части просмотра новостей сайта&#xD;&#xA;XX/2/РД/22-01-41.2 Развитие функции поиска контента на странице «Помощь» в части поиска по новостям сайта&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-01-10, XX/2/РД/23-01-41"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

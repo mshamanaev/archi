@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность перехода по ссылке во внешнюю систему ПКНД"
+    id="id-8c69607846214c1e8db1307a1d9a8ca3"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РС/22-21-38:&#xD;&#xA;ХХ/1/РС/22-21-38.1&#xD;&#xA;ХХ/1/РС/22-21-38.2. Реализация алгоритма маршрутизации пользователя между компонентами Системы">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РС/22-21-38"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

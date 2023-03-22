@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение возможности ЭП &quot;Ответа на обращение&quot; в сервисе &quot;Обращения в КНО&quot; пользователям с полномочием КНО"
+    id="id-c703be0dd62343c5b33993775e5f9cd0">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-12-14"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

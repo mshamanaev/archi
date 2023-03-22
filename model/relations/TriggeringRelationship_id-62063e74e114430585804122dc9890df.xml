@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth 2.0 REST"
+    id="id-62063e74e114430585804122dc9890df"
+    documentation="получение информации об организации из ЮЛК для юридических лиц, аутентифицированных в СУДИР, информация по которым содержится в ЮЛК">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-1e0bd67e60b34034b0308686468bfbd2.xml#id-1e0bd67e60b34034b0308686468bfbd2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-bfda4dbecbc04f4893262cc63ec6279a.xml#id-bfda4dbecbc04f4893262cc63ec6279a"/>
+</archimate:TriggeringRelationship>

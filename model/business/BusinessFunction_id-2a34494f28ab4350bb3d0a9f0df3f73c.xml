@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность формирования (добавление) информационного листа"
+    id="id-2a34494f28ab4350bb3d0a9f0df3f73c">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-08-05"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

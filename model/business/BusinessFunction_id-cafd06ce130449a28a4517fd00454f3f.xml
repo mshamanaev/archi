@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование отчетов «Работа с декларациями» в ЛК КНО"
+    id="id-cafd06ce130449a28a4517fd00454f3f">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-06-07, 12/РД/21-06-30"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

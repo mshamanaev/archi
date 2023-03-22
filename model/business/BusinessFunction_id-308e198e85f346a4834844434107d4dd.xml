@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Задание параметров для симулятора"
+    id="id-308e198e85f346a4834844434107d4dd">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-11-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

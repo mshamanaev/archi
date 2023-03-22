@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="паспорта проверок"
+    id="id-05817afeb8e44da9bceeb8b6245cb7e2">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-964b17da90f240f2986c0f6f323d9c2c.xml#id-964b17da90f240f2986c0f6f323d9c2c"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-6df03d004ef14257bb3c7b74809c65d0.xml#id-6df03d004ef14257bb3c7b74809c65d0"/>
+</archimate:FlowRelationship>

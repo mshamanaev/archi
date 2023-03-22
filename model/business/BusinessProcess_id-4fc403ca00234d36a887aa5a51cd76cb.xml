@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Установка признака «Ответ не требуется» в вопросе"
+    id="id-4fc403ca00234d36a887aa5a51cd76cb">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-14-05, ХХ/1/РД/22-14-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

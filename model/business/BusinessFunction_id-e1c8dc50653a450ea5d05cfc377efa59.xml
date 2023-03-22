@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность рассмотрения ответа на направленный информационный лист из ЛК КНО"
+    id="id-e1c8dc50653a450ea5d05cfc377efa59">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-08-14"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Выгрузка шаблона для комменатария юриста в Excel"
+    id="id-02051757a5da483b9735c84a2ad6bb61">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-13"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

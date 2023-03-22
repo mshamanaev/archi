@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование отчетов «Статистика по организациям» в ЛК Оператора и Тех. Оператора"
+    id="id-66841fc6e2124897b6736ddc8b8a5e7e">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-06-08, 12/РД/21-06-31"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Запросы от КНО&quot; (Запросы)"
+    id="id-96c2d8634643449a87ce9f26f0e1e134">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-04-09, 12/РД/21-04-29"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

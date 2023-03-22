@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REST"
+    id="id-9ff81e2bb0d3455998ff2f8e8d570a76"
+    documentation="ХХ/1/РС/22-17-39&#xD;&#xA;реализация заглушки для внутреннего судира&#xD;&#xA;реализация отдельного сервиса sso для коммуникации с внутренним судиром&#xD;&#xA;доработка монолита">
+  <properties
+      key="bns_Interface"
+      value="REST"/>
+</archimate:BusinessInterface>

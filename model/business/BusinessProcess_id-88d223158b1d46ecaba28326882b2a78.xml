@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр вопроса в ЛК"
+    id="id-88d223158b1d46ecaba28326882b2a78">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-14-09, 12/РД/21-14-19, ХХ/1/РД/22-14-23"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение возможности ЭП &quot;Ходатайства о довнесении документов&quot; в сервисе &quot;Досудебное обжалование по 248ФЗ&quot; пользователям с полномочием Бизнес"
+    id="id-e4729f6070fe42eaa60f6f1987d51c09">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-12-19"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

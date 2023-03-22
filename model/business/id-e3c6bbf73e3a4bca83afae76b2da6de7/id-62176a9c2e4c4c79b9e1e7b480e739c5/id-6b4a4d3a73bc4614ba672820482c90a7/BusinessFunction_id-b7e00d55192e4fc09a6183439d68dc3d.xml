@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование ответа на вопрос в ЛК Оператора"
+    id="id-b7e00d55192e4fc09a6183439d68dc3d"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-14-28: &#xD;&#xA;ХХ/2/РД/22-14-28.1 Развитие алгоритма изменения КНО на странице изменения КНО">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-14-04, ХХ/2/РД/22-14-28"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

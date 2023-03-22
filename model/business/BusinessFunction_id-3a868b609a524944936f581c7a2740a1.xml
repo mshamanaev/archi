@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр информации на странице сервиса «Симулятор нагрузки на бизнес»"
+    id="id-3a868b609a524944936f581c7a2740a1">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-01-02, 12/РД/21-01-26, ХХ/2/РД/22-01-37"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth 2.0 REST "
+    id="id-d6a69c2205264b39a04eb456628eb1a7"
+    documentation="Принимаемые данные:&#xD;&#xA;Сведения для идентификации, аутентификации, авторизации и регистрации пользователей &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="bns_Interface"
+      value="OAuth 2.0 REST"/>
+</archimate:BusinessInterface>

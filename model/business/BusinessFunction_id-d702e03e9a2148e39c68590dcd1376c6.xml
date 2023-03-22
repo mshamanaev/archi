@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с сервисом &quot;ЭП&quot;"
+    id="id-d702e03e9a2148e39c68590dcd1376c6">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-03-05, 12/РС/21-03-12"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

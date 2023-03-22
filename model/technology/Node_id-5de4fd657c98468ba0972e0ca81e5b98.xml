@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KNO-DOCKM1S, KNO-DOCKM2S, KNO-DOCKM3S, KNO-DOCKM4S, KNO-DOCKM5S"
+    id="id-5de4fd657c98468ba0972e0ca81e5b98">
+  <properties
+      key="sys_vCPU"/>
+  <properties
+      key="sys_RAM"/>
+  <properties
+      key="sys_HDD"/>
+</archimate:Node>

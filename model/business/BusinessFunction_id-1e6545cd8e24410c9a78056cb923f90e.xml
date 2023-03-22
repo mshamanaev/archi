@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Задать вопрос КНО&quot; (вопросы от бизнеса)"
+    id="id-1e6545cd8e24410c9a78056cb923f90e">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-22-09"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

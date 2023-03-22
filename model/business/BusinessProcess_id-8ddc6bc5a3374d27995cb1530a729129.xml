@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность скачать файла с подписанной жалобой"
+    id="id-8ddc6bc5a3374d27995cb1530a729129">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РД/22-09-16"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

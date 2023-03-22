@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Специалист с правом подписи "
+    id="id-9b8671c9997b4baf8d5d987b4e33ca77">
+  <properties
+      key="bns_Role"
+      value="KNO"/>
+</archimate:BusinessRole>

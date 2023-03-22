@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Риск-рейтинги&quot;"
+    id="id-51525d7a35e341a39dfcdbb9ff36fb31">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-04-12"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

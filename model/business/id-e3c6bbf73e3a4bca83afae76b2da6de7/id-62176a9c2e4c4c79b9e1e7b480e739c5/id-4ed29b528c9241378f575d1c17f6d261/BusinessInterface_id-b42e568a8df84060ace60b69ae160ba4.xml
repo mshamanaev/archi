@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RabbitMQ"
+    id="id-b42e568a8df84060ace60b69ae160ba4"
+    documentation="Жалоба на дейсвтие КНО&#xD;&#xA;Жалоба на нарушение моратория на проверки&#xD;&#xA;Информация об отправлении ходатайства об отсрочке иполнения решения">
+  <properties
+      key="bns_Interface"
+      value="RabbitMQ"/>
+</archimate:BusinessInterface>

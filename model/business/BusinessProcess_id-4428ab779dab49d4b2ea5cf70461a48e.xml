@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр списка организаций, по которым сформирован риск-рейтинг в ЛК КНО"
+    id="id-4428ab779dab49d4b2ea5cf70461a48e">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-26-06"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

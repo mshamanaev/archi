@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ГИС ОК"
+    id="id-51c9db061a5c43fca0d39e6665cd1f5f">
+  <properties
+      key="bns_Cluster"/>
+  <properties
+      key="bns_RIRS"/>
+  <properties
+      key="bns_UUID"
+      value="4634712B-958A-4DED-A543-69EFB303E242"/>
+</archimate:Product>

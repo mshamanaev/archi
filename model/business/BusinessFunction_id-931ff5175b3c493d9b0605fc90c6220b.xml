@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование виджета &quot;Статистика по регистрации в системе&quot; в ЛК Оператора и Тех. Оператора"
+    id="id-931ff5175b3c493d9b0605fc90c6220b">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-06-16"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

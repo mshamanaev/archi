@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Обеспечение возможности ЭП ходатайства в сервисе &quot;Досудебное обжалование&quot; пользователям с полномочием Бизнес"
+    id="id-fc6c5337fe864d55a3e57be477e24c97"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РС/22-12-31: &#xD;&#xA;ХХ/2/РС/22-12-31.1 Реализация экранной формы предпросмотра подписываемого ходатайства по жалобе на постановление&#xD;&#xA;ХХ/2/РС/22-12-31.2 Реализация экранной формы сообщения об успешном подписании ходатайства&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/2/РС/22-12-31"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

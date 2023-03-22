@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Добавление временных диапазонов для приема организаций в разрезе дней недели в ЛК КНО"
+    id="id-19516f3d450c46e3a97de509d5c0a14d">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-21-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

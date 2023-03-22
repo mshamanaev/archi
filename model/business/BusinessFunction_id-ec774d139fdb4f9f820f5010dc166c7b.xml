@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр классификаторов и справочников системы НСИ в ЛК Оператора"
+    id="id-ec774d139fdb4f9f820f5010dc166c7b">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-22-21, ХХ/1/РД/22-22-36"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

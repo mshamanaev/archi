@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Реестр информационных листов Бизнеса"
+    id="id-cf86fe1583e04725a7a46ad8edaa84a3">
+  <properties
+      key="bns_Process"
+      value="12/РС/21-08-02"/>
+  <properties
+      key="bns_ Process_GK"/>
+</archimate:BusinessProcess>

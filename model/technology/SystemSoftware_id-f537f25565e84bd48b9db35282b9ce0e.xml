@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nginx"
+    id="id-f537f25565e84bd48b9db35282b9ce0e">
+  <properties
+      key="sys_Technology"
+      value="Nginx"/>
+</archimate:SystemSoftware>

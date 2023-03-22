@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к подсистеме Администрирование"
+    id="id-38a09ec39a8444b0ba38224c716755b0">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-22-23, 12/РД/21-22-29"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

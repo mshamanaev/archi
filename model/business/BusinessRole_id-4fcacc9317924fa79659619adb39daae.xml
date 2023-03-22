@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Администратор "
+    id="id-4fcacc9317924fa79659619adb39daae">
+  <properties
+      key="bns_Role"
+      value="KNO"/>
+</archimate:BusinessRole>

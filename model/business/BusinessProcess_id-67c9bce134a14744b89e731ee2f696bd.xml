@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Поиск и фильтрация жалоб в ЛК Бизнеса"
+    id="id-67c9bce134a14744b89e731ee2f696bd">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-25-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

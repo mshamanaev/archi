@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр реестра импорта"
+    id="id-169d54afcbfd41ec87900665c17a681c">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-24-14"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

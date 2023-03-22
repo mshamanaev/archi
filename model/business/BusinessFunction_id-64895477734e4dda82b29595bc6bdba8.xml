@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису «Калькулятор рисков» из ЛК Самозанятого"
+    id="id-64895477734e4dda82b29595bc6bdba8"
+    documentation="ХХ/1/РД/22-23-11&#xD;&#xA;В навигационном меню «Сервисы» пункт меню «Досудебное обжалование» должен быть переименован на «Жалобы».">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-23-09"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

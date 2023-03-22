@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth 2.0 REST"
+    id="id-2baf3f2963c3476dbb673715a0ac846c"
+    documentation="&#x9;Получение сведений о организации и видах деятельности организации;&#xD;&#xA;&#x9;Получение сведений о лицензиях организации;&#xD;&#xA;&#x9;Фиксация истории событий о получении данных.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-1e0bd67e60b34034b0308686468bfbd2.xml#id-1e0bd67e60b34034b0308686468bfbd2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-66368fd762eb4d389ec354cefec4e9f1.xml#id-66368fd762eb4d389ec354cefec4e9f1"/>
+</archimate:TriggeringRelationship>

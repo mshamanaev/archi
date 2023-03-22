@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование жалобы на нарушение моратория из ЛК Бизнеса и Самозанятого"
+    id="id-c2fbf2299d6b499eae676f8eb3e3324f"
+    documentation="ХХ/1/РС/22-09-13&#xD;&#xA;1)&#x9;Реализация   экранной формы подачи жалобы на нарушение моратория:&#xD;&#xA;2)&#x9;Развитие экранной формы диалогового окна для подтверждения формирования жалобы&#xD;&#xA;3)&#x9;Развитие экранной формы предпросмотра жалобы &#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-09-13, ХХ/2/РД/22-09-32"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

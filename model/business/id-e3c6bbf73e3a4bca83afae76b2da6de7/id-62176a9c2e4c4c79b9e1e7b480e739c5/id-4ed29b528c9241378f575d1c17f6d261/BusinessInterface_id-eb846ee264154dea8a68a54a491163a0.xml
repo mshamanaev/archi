@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSS"
+    id="id-eb846ee264154dea8a68a54a491163a0"
+    documentation="получение актуальных новостей из информационной системы mos.ru.">
+  <properties
+      key="bns_Interface"
+      value="RSS"/>
+</archimate:BusinessInterface>

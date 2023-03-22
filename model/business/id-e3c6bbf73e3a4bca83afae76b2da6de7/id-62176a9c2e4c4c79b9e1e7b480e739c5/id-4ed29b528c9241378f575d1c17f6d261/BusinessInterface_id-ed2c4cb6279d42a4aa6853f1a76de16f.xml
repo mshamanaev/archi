@@ -1,0 +1,9 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOAP"
+    id="id-ed2c4cb6279d42a4aa6853f1a76de16f"
+    documentation="Формирование и проверка электронной подписи в Системе осуществляться посредством информационного взаимодействия с ИС ЕКС">
+  <properties
+      key="bns_Interface"
+      value="SOAP"/>
+</archimate:BusinessInterface>

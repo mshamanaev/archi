@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование запроса в ТП через форму ТП"
+    id="id-3f57ecc60d64469f8f9c60a3556ddbc4">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-01-07"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

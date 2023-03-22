@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Поиск и фильтрация жалоб в ЛК Бизнеса и Самозанятого"
+    id="id-1710a59ac17a4c24bca151653c888d83"
+    documentation="Функции, реализуемые в инкременте ХХ/1/РД/22-09-18: &#xD;&#xA;ХХ/1/РД/22-09-18.1 Развитие функции поиска по ключевым словам&#xD;&#xA;ХХ/1/РД/22-09-18.2 Развитие алгоритма фильтрации данных&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-06, ХХ/1/РД/22-09-18"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

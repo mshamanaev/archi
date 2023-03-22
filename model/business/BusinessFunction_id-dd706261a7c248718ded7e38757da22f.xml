@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Формирование деклараций в КНО&quot; (Декларации)"
+    id="id-dd706261a7c248718ded7e38757da22f">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-04-08"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

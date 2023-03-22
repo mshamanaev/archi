@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="инф. о лицензиях"
+    id="id-0940ef8cf44c44ae852e09c41e6023f0">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-ab8294f0ea7d4559ade95c97973e1667.xml#id-ab8294f0ea7d4559ade95c97973e1667"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-ad4852e7e2d94e9a8df8e0f32c476721.xml#id-ad4852e7e2d94e9a8df8e0f32c476721"/>
+</archimate:FlowRelationship>

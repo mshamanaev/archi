@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Операторы системы"
+    id="id-a3e73cd8e1334e93bc2dfdc195b20174">
+  <properties
+      key="bns_Role"
+      value="OPERATOR"/>
+</archimate:BusinessRole>

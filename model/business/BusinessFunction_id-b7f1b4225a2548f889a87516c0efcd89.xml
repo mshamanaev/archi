@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ведение справочника &quot;Виды нормы&quot;"
+    id="id-b7f1b4225a2548f889a87516c0efcd89">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-18-04"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

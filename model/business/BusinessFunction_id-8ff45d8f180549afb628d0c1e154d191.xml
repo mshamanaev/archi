@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность взаимодействия с монолитом (фронтэнд) через API"
+    id="id-8ff45d8f180549afb628d0c1e154d191">
+  <properties
+      key="bns_Function"
+      value="ХХ/1/РС/22-27-11"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

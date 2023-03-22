@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность формирования обращения в КНО в ЛК Самозанятого"
+    id="id-2ce2daca48b547ee9ce03d0c5dd28f65">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-15-10"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

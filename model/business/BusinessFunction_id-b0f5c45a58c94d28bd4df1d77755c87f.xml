@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Взаимодействие с АС УР (в части получения сведений ЕГРЮЛ, ЕГРИП)"
+    id="id-b0f5c45a58c94d28bd4df1d77755c87f">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-03, 12/РД/21-17-35"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

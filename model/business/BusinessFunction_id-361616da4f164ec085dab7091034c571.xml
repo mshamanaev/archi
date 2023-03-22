@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Формирование квалицированной ЭП документа из внешнего сервиса"
+    id="id-361616da4f164ec085dab7091034c571">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-12-01"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

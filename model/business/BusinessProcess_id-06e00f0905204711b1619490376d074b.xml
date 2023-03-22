@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Настройка получения уведомлений в личном кабинете КНО"
+    id="id-06e00f0905204711b1619490376d074b"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-13-56:&#xD;&#xA;ХХ/2/РД/22-13-56.1">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-13-09, 12/РД/21-13-31, ХХ/2/РД/22-13-56"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Фильтрация и поиск цифровых профилей (в ЛК Операторов и КНО)"
+    id="id-6212c99816754a9dbef873edad1c4db3">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-07-02"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

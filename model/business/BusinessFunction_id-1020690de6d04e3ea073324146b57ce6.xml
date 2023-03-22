@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Предоставление внешним системам результатов рассмотрения поступившей декларации к КНО. Предоставление внешним системам деклараций к КНО"
+    id="id-1020690de6d04e3ea073324146b57ce6">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-17-19"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ведение справочника «Перечень КНО» "
+    id="id-5cae9b3ada734f40bd0c9d802533edad"
+    documentation="Функции, реализуемые в инкременте ХХ/2/РД/22-18-78:&#xD;&#xA;ХХ/2/РД/22-18-78.1 Разработка алгоритма предзаполнения полей в карточке КНО в Перечне КНО из сведений, указанных для КНО при добавлении организации в Реестре организацийм">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-18-08, ХХ/1/РД/22-18-74, ХХ/2/РД/22-18-78"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

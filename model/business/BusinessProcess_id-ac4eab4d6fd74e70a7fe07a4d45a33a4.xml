@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Просмотр жалобы и информации по ней в рамках статусной модели в ЛК Бизнеса и Самозанятого"
+    id="id-ac4eab4d6fd74e70a7fe07a4d45a33a4">
+  <properties
+      key="bns_Function"
+      value="12/РС/21-09-08, ХХ/1/РД/22-09-15"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>

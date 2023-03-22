@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доступ к сервису &quot;Досудебное обжалование по 248ФЗ&quot; (Досудебное обжалование)"
+    id="id-9a73e8f5434c4b4f9666f3eec6146bdf"
+    documentation="ХХ/1/РД/22-03-22 &#xD;&#xA;В навигационном меню «Сервисы» пункт меню «Досудебное обжалование» должен быть переименован на «Жалобы»&#xD;&#xA;">
+  <properties
+      key="bns_Function"
+      value="12/РД/21-03-13, ХХ/1/РД/22-03-22"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

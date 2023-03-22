@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ELK"
+    id="id-eb0901b6897945e2b648ec3d3858e725">
+  <properties
+      key="sys_Technology"
+      value="ELK"/>
+</archimate:SystemSoftware>

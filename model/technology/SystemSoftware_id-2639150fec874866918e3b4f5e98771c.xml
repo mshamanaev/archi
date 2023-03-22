@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spring Cloud Config Server"
+    id="id-2639150fec874866918e3b4f5e98771c">
+  <properties
+      key="sys_Technology"
+      value="Spring Cloud Config"/>
+</archimate:SystemSoftware>

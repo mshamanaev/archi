@@ -1,0 +1,10 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Возможность формирования ответа на полученное обращение/жалобу/заявление из ЛК КНО"
+    id="id-3c43b60a01864a9790e6694f305e6fd1">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-15-07, 12/РД/21-15-27"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessFunction>

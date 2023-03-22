@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CPKNO-STORAGE1P, CPKNO-STORAGE2P, CPKNO-STORAGE3P, CPKNO-STORAGE4P"
+    id="id-7d7e15a8aeec4b899d2a750623494115">
+  <properties
+      key="sys_vCPU"/>
+  <properties
+      key="sys_RAM"/>
+  <properties
+      key="sys_HDD"/>
+</archimate:Node>

@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Информирование пользователей в ЛК бизнеса о результатах расчета риск-рейтинга и присвоенной категории"
+    id="id-70bb92fb83d140bf9cc106dbcf937669">
+  <properties
+      key="bns_Function"
+      value="64/РС/20-26-03"/>
+  <properties
+      key="bns_Function_GK"/>
+</archimate:BusinessProcess>
